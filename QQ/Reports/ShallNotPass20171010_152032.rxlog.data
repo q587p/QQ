@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="21.1s"
+		durationms="21100"
+		type="root"
+		rid="12e71ab4df321e70"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 15:20:37"
+		timestampiso="2017-10-10T12:20:37"
+		endtime="10.10.2017 15:20:58"
+		timeoutfactor="1"
+		module="ShallNotPass">
+		<detail>
+			ShallNotPass
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.840"
+			timeRelativeToTestModuleStartTime="00:00.840"
+			timeWallClock="15:20:38"
+			time="00:00.840"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Program Files (x86)\MyAssays\MyAssays Desktop\MyAssays.Desktop.Explorer.exe' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.937"
+			timeRelativeToTestModuleStartTime="00:00.937"
+			timeWallClock="15:20:38"
+			time="00:00.937"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.SomeTabPage' at 31;34.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/?/?/tabpagelist[@automationid='TabControl']/tabpage[@index='2']"
+				fullname="QQRepository.MyAssaysExplorer.SomeTabPage"
+				id="b93738a104c4421eb16a6242ea57f951"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.563"
+			timeRelativeToTestModuleStartTime="00:03.563"
+			timeWallClock="15:20:40"
+			time="00:03.563"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.New' at 18;5.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']//button[@automationid='NewFileRibbonButton']/list[@automationid='PART_Label']/text[@caption='New ']"
+				fullname="QQRepository.MyAssaysExplorer.New"
+				id="45b5d4583f684e3d9ac7b77ea84d41de"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.227"
+			timeRelativeToTestModuleStartTime="00:06.227"
+			timeWallClock="15:20:43"
+			time="00:06.227"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.IWillEnterPasteInMyData' at 98;1.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]//radiobutton[@text~'^I\ will\ enter/paste\ in\ my\ ']/text[@caption~'^I\ will\ enter/paste\ in\ my\ ']"
+				fullname="QQRepository.NewProtocolWizard.IWillEnterPasteInMyData"
+				id="cc5d29944b3341f2acf6f58819e4ee96"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.100"
+			timeRelativeToTestModuleStartTime="00:21.100"
+			timeWallClock="15:20:58"
+			time="00:21.100"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

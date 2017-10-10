@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="17.51s"
+		durationms="17513"
+		type="root"
+		rid="12bc99e1ed7e247f"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 13:48:54"
+		timestampiso="2017-10-10T10:48:54"
+		endtime="10.10.2017 13:49:12"
+		timeoutfactor="1"
+		module="BasigBugMaxInt">
+		<detail>
+			BasigBugMaxInt
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.840"
+			timeRelativeToTestModuleStartTime="00:00.840"
+			timeWallClock="13:48:55"
+			time="00:00.840"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Program Files (x86)\MyAssays\MyAssays Desktop\MyAssays.Desktop.Explorer.exe' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.919"
+			timeRelativeToTestModuleStartTime="00:00.919"
+			timeWallClock="13:48:55"
+			time="00:00.919"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.SomeTabPage' at 66;66.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/?/?/tabpagelist[@automationid='TabControl']/tabpage[@index='2']"
+				fullname="QQRepository.MyAssaysExplorer.SomeTabPage"
+				id="b93738a104c4421eb16a6242ea57f951"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.838"
+			timeRelativeToTestModuleStartTime="00:03.838"
+			timeWallClock="13:48:58"
+			time="00:03.838"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.NewFileRibbonButton' at 27;24.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/menubar[@automationid='Ribbon']//button[@automationid='NewFileRibbonButton']"
+				fullname="QQRepository.MyAssaysExplorer.NewFileRibbonButton"
+				id="ac18026f8a274dc7a3ad62bce200ae26"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.134"
+			timeRelativeToTestModuleStartTime="00:06.134"
+			timeWallClock="13:49:00"
+			time="00:06.134"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.IWillEnterPasteInMyData' at 14;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]//radiobutton[@text~'^I\ will\ enter/paste\ in\ my\ ']/text[@caption~'^I\ will\ enter/paste\ in\ my\ ']"
+				fullname="QQRepository.NewProtocolWizard.IWillEnterPasteInMyData"
+				id="cc5d29944b3341f2acf6f58819e4ee96"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.513"
+			timeRelativeToTestModuleStartTime="00:17.513"
+			timeWallClock="13:49:12"
+			time="00:17.513"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

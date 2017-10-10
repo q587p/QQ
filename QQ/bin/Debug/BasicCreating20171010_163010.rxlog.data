@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="33.37s"
+		durationms="33372"
+		type="root"
+		rid="10b5e8ece050b950"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 16:30:16"
+		timestampiso="2017-10-10T13:30:16"
+		endtime="10.10.2017 16:30:49"
+		timeoutfactor="1"
+		module="BasicCreating">
+		<detail>
+			BasicCreating
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.833"
+			timeRelativeToTestModuleStartTime="00:00.849"
+			timeWallClock="16:30:17"
+			time="00:00.833"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 26;8.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasicCreating.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:33.372"
+			timeRelativeToTestModuleStartTime="00:33.388"
+			timeWallClock="16:30:49"
+			time="00:33.372"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="633e7827-8bb6-4494-ae58-6c30fd885b7f"
+mode="Desktop"
+rxversion="7.2">
+	<name>
+		Run
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Run"
+	namespace="QQ">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<filename>
+				C:\Program Files (x86)\MyAssays\MyAssays Desktop\MyAssays.Desktop.Explorer.exe
+			</filename>
+			<workingdir>
+				C:\Program Files (x86)\MyAssays\MyAssays Desktop
+			</workingdir>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="b14f9dcf-dcb2-4956-9994-48d82b8e968f"
+	name="QQRepository"
+	relativepath="QQRepository.rxrep"
+	rxversion="7.2">
+		<codegen
+		classname="QQRepository"
+		namespace="QQ">
+		</codegen>
+		<rootfolder
+		id="22b4cdd8-cb0b-4a51-9f08-f14dc508a2da"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Run.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

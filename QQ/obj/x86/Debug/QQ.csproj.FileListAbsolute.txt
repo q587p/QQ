@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\bin\Debug\QQ.rxtmg
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\bin\Debug\QQ.rxtst
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\bin\Debug\QQ.exe.config
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\bin\Debug\QQ.exe
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\bin\Debug\QQ.pdb
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\obj\x86\Debug\QQ.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\obj\x86\Debug\QQ.exe
+C:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\obj\x86\Debug\QQ.pdb

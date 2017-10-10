@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="7.2">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroupdef
+			id="1effc375-f25f-41df-8bd8-4c1d1976b57c"
+			name="RunOpen">
+			</modulegroupdef>
+			<modulegroups
+			id="544ce094-f16e-4810-8574-139a998ed530"
+			name="QQ">
+			</modulegroups>
+			<testmodule
+			id="a0e1a76d-b45d-424f-ad63-2788ec8d4073"
+			name="Open"
+			ref="613f31d0-7ba0-407d-8119-28ee57f2c827"
+			type="Recording">
+			</testmodule>
+			<testmodule
+			id="f8028620-10a9-4f5a-b552-b78583ee0e7d"
+			name="Run"
+			ref="633e7827-8bb6-4494-ae58-6c30fd885b7f"
+			type="Recording">
+			</testmodule>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="544ce094-f16e-4810-8574-139a998ed530"
+			name="QQ">
+				<modulegroupdef
+				id="1effc375-f25f-41df-8bd8-4c1d1976b57c"
+				name="RunOpen">
+					<testmodule
+					id="f8028620-10a9-4f5a-b552-b78583ee0e7d"
+					name="Run">
+					</testmodule>
+					<testmodule
+					id="a0e1a76d-b45d-424f-ad63-2788ec8d4073"
+					name="Open">
+					</testmodule>
+				</modulegroupdef>
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>

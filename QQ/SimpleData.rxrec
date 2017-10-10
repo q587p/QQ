@@ -1,0 +1,999 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="d6d823ec-d5b2-4ff6-bd69-9f5b41eb5026"
+mode="Desktop"
+rxversion="7.2">
+	<name>
+		SimpleData
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="SimpleData"
+	namespace="QQ">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="500ms"
+		enabled="True"
+		loc="102;77"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="f34d8824-404e-483e-b920-5cfbaac03957"
+		sx="790"
+		sy="460"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="6f537a54-6417-4bfc-b18f-35e78e178f57"
+			sourcename="Recorder">
+				<element
+				capabilities="wpfelement, wpfgroupelement"
+				dontcache="False"
+				enabled="True"
+				flavor="wpf"
+				hasfocus="False"
+				index="2"
+				prefcap="text"
+				rect="688,383,544,243"
+				role="text"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="basetype"
+					type="System.String">
+						System.Windows.Controls.TextBoxView
+					</attribute>
+					<attribute
+					name="fulltype"
+					type="System.String">
+						Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView&gt;
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						DepoGroup&lt;TextBoxView&gt;
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupleaderid"
+					type="System.Guid">
+						4ca4a0e7-182a-42cc-a3c0-3c12709d31b9
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupmemberids"
+					type="System.Guid[]">
+						AAEAAAD/////AQAAAAAAAAAHAQAAAAABAAAAAgAAAAMLU3lzdGVtLkd1aWQE/v///wtTeXN0ZW0u
+R3VpZAsAAAACX2ECX2ICX2MCX2QCX2UCX2YCX2cCX2gCX2kCX2oCX2sAAAAAAAAAAAAAAAgHBwIC
+AgICAgIC56CkTCoYzEKjwDwScJ0xuQH9/////v///9cqEth6BVxHnDWNv1N2MUAL
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupobjectid"
+					type="System.Guid">
+						36a77616-9323-4668-a716-7caa807fb426
+					</attribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.ActualHeight property of type Double."
+					name="ActualHeight"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.ActualWidth property of type Double."
+					name="ActualWidth"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.AllowDrop property of type Boolean."
+					name="AllowDrop"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.BindingGroup property of type BindingGroup."
+					name="BindingGroup"
+					readonly="False"
+					type="System.Windows.Data.BindingGroup, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.BitmapEffect property of type BitmapEffect."
+					name="BitmapEffect"
+					readonly="False"
+					type="System.Windows.Media.Effects.BitmapEffect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.BitmapEffectInput property of type BitmapEffectInput."
+					name="BitmapEffectInput"
+					readonly="False"
+					type="System.Windows.Media.Effects.BitmapEffectInput, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.CacheMode property of type CacheMode."
+					name="CacheMode"
+					readonly="False"
+					type="System.Windows.Media.CacheMode, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Clip property of type Geometry."
+					name="Clip"
+					readonly="False"
+					type="System.Windows.Media.Geometry, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.ClipToBounds property of type Boolean."
+					name="ClipToBounds"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.ContextMenu property of type ContextMenu."
+					name="ContextMenu"
+					readonly="False"
+					type="System.Windows.Controls.ContextMenu, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.DataContext property of type Object."
+					name="DataContext"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Effect property of type Effect."
+					name="Effect"
+					readonly="False"
+					type="System.Windows.Media.Effects.Effect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.FlowDirection property of type FlowDirection."
+					name="FlowDirection"
+					readonly="False"
+					type="System.Windows.FlowDirection, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Focusable property of type Boolean."
+					name="Focusable"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.ForceCursor property of type Boolean."
+					name="ForceCursor"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Height property of type Double."
+					name="Height"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.HorizontalAlignment property of type HorizontalAlignment."
+					name="HorizontalAlignment"
+					readonly="False"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.IsHitTestVisible property of type Boolean."
+					name="IsHitTestVisible"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.IsManipulationEnabled property of type Boolean."
+					name="IsManipulationEnabled"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.LayoutTransform property of type Transform."
+					name="LayoutTransform"
+					readonly="False"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.MaxHeight property of type Double."
+					name="MaxHeight"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.MaxWidth property of type Double."
+					name="MaxWidth"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.MinHeight property of type Double."
+					name="MinHeight"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.MinWidth property of type Double."
+					name="MinWidth"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Opacity property of type Double."
+					name="Opacity"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.OpacityMask property of type Brush."
+					name="OpacityMask"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.OverridesDefaultStyle property of type Boolean."
+					name="OverridesDefaultStyle"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.RenderTransform property of type Transform."
+					name="RenderTransform"
+					readonly="False"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.RenderTransformOrigin property of type Point."
+					name="RenderTransformOrigin"
+					readonly="False"
+					type="System.Windows.Point, WindowsBase, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.SnapsToDevicePixels property of type Boolean."
+					name="SnapsToDevicePixels"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Tag property of type Object."
+					name="Tag"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.ToolTip property of type Object."
+					name="ToolTip"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Uid property of type String."
+					name="Uid"
+					readonly="False"
+					type="System.String"
+					weight="150">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.UseLayoutRounding property of type Boolean."
+					name="UseLayoutRounding"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.VerticalAlignment property of type VerticalAlignment."
+					name="VerticalAlignment"
+					readonly="False"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Visibility property of type Visibility."
+					name="Visibility"
+					readonly="False"
+					type="System.Windows.Visibility, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.TextBoxView>.Width property of type Double."
+					name="Width"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+				</element>
+				<path>
+					/form[@title='New Protocol Wizard']//tabpage[@title='Pad']/text[@automationid='PadViewTextBox']/text[@caption='']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="fd4bf337-1c92-4662-9fd6-1a20a110f10d">
+				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
+45qaiigAooooAKKKKACiiigAooooAKKKKAG7x70bx70eVH/cX8qPKj/uL+VABvHvRvHvTJEVUyqg
+HI6D3pKAJN496N496jooAk3j3o3j3qOigCTePejePeo6KAJN496N496jooAk3j3o3j3qOigCTePe
+jePeo6KAJN496N496jooAk3j3o3j3qOigCTePejePeo6KAJN496N496jooAk3j3o3j3qOigCTePe
+jePeo6KAJN496N496jooAk3j3o3j3qOigCTePejePeo6KAJN496N496jooAk3j3o3j3qOigCTePe
+jePeo6KAJN496N496jooAk3j3o3j3qOigCTePejePeo6KAJN496N496jooAk3j3o3j3qOigCTePe
+jePeo6KAJN496N496jooAk3j3o3j3qOigCTePejePeo6KAJN496N496jooAk3j3o3j3qOigCTePe
+io6KAKbTyTy27MUCeeQFH3hgEc1pUzyIfM3+Um/Od20ZzT6AGTf6v8R/Oo6km/1f4j+dR0AVbtVa
+aEND5w+b5cD+tRqXgLAnMmxFHG7JyeOoq6QCQSBkdDTXjjcEOisD1yM5oAqpNNJJExIXAcMuOuD9
+f8aktZppvmePEbLlTx+XU5/SphDEAoEaYU5X5RwfahIo0YskaKx6kKATTEPooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAp+RrH/P1D+X/ANjR5Gsf
+8/UP5f8A2NadFRy+Z0e2f8q+4zPI1j/n6h/L/wCxo8jWP+fqH8v/ALGtOijl8w9s/wCVfcZnkax/
+z9Q/l/8AY0eRrH/P1D+X/wBjWnRRy+Ye2f8AKvuMzyNY/wCfqH8v/saPI1j/AJ+ofy/+xrToo5fM
+PbP+VfcZnkax/wA/UP5f/Y0eRrH/AD9Q/l/9jWnRRy+Ye2f8q+4zPI1j/n6h/L/7GjyNY/5+ofy/
++xrToo5fMPbP+VfcZnkax/z9Q/l/9jR5Gsf8/UP5f/Y1p0UcvmHtn/KvuMzyNY/5+ofy/wDsaPI1
+j/n6h/L/AOxrToo5fMPbP+VfcZnkax/z9Q/l/wDY0eRrH/P1D+X/ANjWnRRy+Ye2f8q+4zPI1j/n
+6h/L/wCxo8jWP+fqH8v/ALGtOijl8w9s/wCVfcZnkax/z9Q/l/8AY0eRrH/P1D+X/wBjWnRRy+Ye
+2f8AKvuMzyNY/wCfqH8v/saPI1j/AJ+ofy/+xrToo5fMPbP+VfcZnkax/wA/UP5f/Y0eRrH/AD9Q
+/l/9jWnRRy+Ye2f8q+4zPI1j/n6h/L/7GjyNY/5+ofy/+xrToo5fMPbP+VfcZnkax/z9Q/l/9jR5
+Gsf8/UP5f/Y1p0UcvmHtn/KvuMzyNY/5+ofy/wDsaPI1j/n6h/L/AOxrToo5fMPbP+VfcZnkax/z
+9Q/l/wDY0eRrH/P1D+X/ANjWnRRy+Ye2f8q+4zPI1j/n6h/L/wCxo8jWP+fqH8v/ALGtOijl8w9s
+/wCVfcZnkax/z9Q/l/8AY0eRrH/P1D+X/wBjWnRRy+Ye2f8AKvuMzyNY/wCfqH8v/saPI1j/AJ+o
+fy/+xrToo5fMPbP+VfcZnkax/wA/UP5f/Y0eRrH/AD9Q/l/9jWnRRy+Ye2f8q+4zPI1j/n6h/L/7
+GjyNY/5+ofy/+xrToo5fMPbP+VfcZnkax/z9Q/l/9jR5Gsf8/UP5f/Y1p0UcvmHtn/KvuMzyNY/5
++ofy/wDsaPI1j/n6h/L/AOxrToo5fMPbP+VfcZnkax/z9Q/l/wDY0eRrH/P1D+X/ANjWnRRy+Ye2
+f8q+4zPI1j/n6h/L/wCxo8jWP+fqH8v/ALGtOijl8w9s/wCVfcZnkax/z9Q/l/8AY0eRrH/P1D+X
+/wBjWnRRy+Ye2f8AKvuMzyNY/wCfqH8v/saPI1j/AJ+ofy/+xrToo5fMPbP+VfcZnkax/wA/UP5f
+/Y0eRrH/AD9Q/l/9jWnRRy+Ye2f8q+4zPI1j/n6h/L/7GjyNY/5+ofy/+xrToo5fMPbP+VfcZnka
+x/z9Q/l/9jR5Gsf8/UP5f/Y1p0UcvmHtn/KvuMzyNY/5+ofy/wDsaK06KOXzD2z/AJV9wUUUVRgF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAHrRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRWV/Z11/wBBKb9f8aP7Ouv+glN+v+NTd9jf2dP+f8GatFZX
+9nXX/QSm/X/Gj+zrr/oJTfr/AI0XfYPZ0/5/wZq0Vlf2ddf9BKb9f8aP7Ouv+glN+v8AjRd9g9nT
+/n/BmrRWV/Z11/0Epv1/xo/s66/6CU36/wCNF32D2dP+f8GatFZX9nXX/QSm/X/Gj+zrr/oJTfr/
+AI0XfYPZ0/5/wZq0Vlf2ddf9BKb9f8aP7Ouv+glN+v8AjRd9g9nT/n/BmrRWV/Z11/0Epv1/xo/s
+66/6CU36/wCNF32D2dP+f8GatFZX9nXX/QSm/X/Gj+zrr/oJTfr/AI0XfYPZ0/5/wZq0Vlf2ddf9
+BKb9f8aP7Ouv+glN+v8AjRd9g9nT/n/BmrRWV/Z11/0Epv1/xo/s66/6CU36/wCNF32D2dP+f8Ga
+tFZX9nXX/QSm/X/Gj+zrr/oJTfr/AI0XfYPZ0/5/wZq0Vlf2ddf9BKb9f8aP7Ouv+glN+v8AjRd9
+g9nT/n/BmrRWV/Z11/0Epv1/xo/s66/6CU36/wCNF32D2dP+f8GatFZX9nXX/QSm/X/Gj+zrr/oJ
+Tfr/AI0XfYPZ0/5/wZq0Vlf2ddf9BKb9f8aP7Ouv+glN+v8AjRd9g9nT/n/BmrRWV/Z11/0Epv1/
+xo/s66/6CU36/wCNF32D2dP+f8GatFZX9nXX/QSm/X/Gj+zrr/oJTfr/AI0XfYPZ0/5/wZq0Vlf2
+ddf9BKb9f8aP7Ouv+glN+v8AjRd9g9nT/n/BmrRWV/Z11/0Epv1/xo/s66/6CU36/wCNF32D2dP+
+f8GatFZX9nXX/QSm/X/Gj+zrr/oJTfr/AI0XfYPZ0/5/wZq0Vlf2ddf9BKb9f8aP7Ouv+glN+v8A
+jRd9g9nT/n/BmrRWV/Z11/0Epv1/xo/s66/6CU36/wCNF32D2dP+f8GatFZX9nXX/QSm/X/Gj+zr
+r/oJTfr/AI0XfYPZ0/5/wZq0Vlf2ddf9BKb9f8aP7Ouv+glN+v8AjRd9g9nT/n/BmrRWV/Z11/0E
+pv1/xo/s66/6CU36/wCNF32D2dP+f8GatFZX9nXX/QSm/X/Gj+zrr/oJTfr/AI0XfYPZ0/5/wZq0
+Vlf2ddf9BKb9f8aP7Ouv+glN+v8AjRd9g9nT/n/BmrRWV/Z11/0Epv1/xo/s66/6CU36/wCNF32D
+2dP+f8GatFZX9nXX/QSm/X/Gj+zrr/oJTfr/AI0XfYPZ0/5/wZq0Vlf2ddf9BKb9f8aP7Ouv+glN
++v8AjRd9g9nT/n/BmrRWV/Z11/0Epv1/xo/s66/6CU36/wCNF32D2dP+f8GatFZX9nXX/QSm/X/G
+ii77B7On/P8AgzR3D1H50bh6j86UMD0INFUYCbh6j86Nw9R+dLRQAm4eo/OjcPUfnS0UAICD0IoJ
+AHJA+tB+8PpSH7yfX+hoAPMT++v50eYn99fzp+aM0AM8xP76/nR5if31/On5qM3EIm8kyoJSM7Nw
+3flQAvmJ/fX86PMT++v505WDKGUgg8gjvS5oAZ5if31/OjzE/vr+dPzRmgBnmJ/fX86UMpPDA/Q0
+7NMb/WL9D/SgB1FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUU
+AFFFFABRRRQAUUUUAFFFFABRRRQAhZQeWA+ppPMT++v50L/rG+g/rT80AM8xP76/nR5if31/OiWa
+OFN8sixr6scCljljlQPE6up6MpyDQAnmJ/fX86PMT++v50/NGaAGeYn99fzo8xP76/nSC5gaYwrN
+GZR1QMNw/CpM0AM8xP76/nR5if31/On5ozQAzzE/vr+dFPzRQBEMhQemBRuOOvenZ+v5UZ+v5UAN
+yRnB705ScckH6UZ+v5UZ+v5UALRSZ+v5UZ+v5UAH8Q+lDfeT6/0NA5bv0pH/AITzwew9qAHZozTN
+w9G/75NG4ejf98mmIfmqVpNCsYgZlE+SXQ/eLdzj9c1a3D0b/vk0bh6N/wB8mkMykuZ0FvGk0US+
+WpXzHC7/AFHKnP4EU9r6X7TKElBUK42FgWQgdcbeOncmtLcPRv8Avk0bh6N/3yaACDcIl3uXYjJJ
+AH8qfmmbh6N/3yaNw9G/75NMQ/NNP+sH0P8ASk3D0b/vk0A5ccHoeo+lAx9FFFIAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAaP9
+YfoP607NMJw54PQdB9aNw9G/75NMCG+kSNYnkZUUSjJY4AqtNcKvnTQSbI5CqiUEBS3OTkgjGMDO
+D6Vf3D0b/vk0bh6N/wB8mkBnRTM8lrNNOQdsi4XbhyD9Oc47Y6VJpt088sitKJU2hlIYMRnPBwAM
++3NXdw9G/wC+TRuHo3/fJpiKiNPGl1IjIVDOQvlknP1zz9MVH9pfawgu/PX5f3mFO0lgMcDHT8av
+7h6N/wB8mjcPRv8Avk0hlKR7hXfbcthHRACi85wCTx79sUye5ljiMZuCriRlEjFVyABwTtIzz2Ha
+tDcPRv8Avk0bh6N/3yaAOe1MSzyQzbny8KsQAMD9KK6HcPRv++TRRqWpWQ+iiiggKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+			</helperscreenshot>
+		</mouseitem>
+		<keysequenceitem
+		KeySequence="{NumPad1}"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		presstime="100ms"
+		searchpropertyid="110add87-f306-4d17-a419-25b37b0977bd">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</keysequenceitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="500ms"
+		enabled="True"
+		loc="40;16"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="a1f2f617-fca7-45b2-910b-ae9a7946c837"
+		sx="1200"
+		sy="732"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="774966f7-bcb1-447c-a7ad-2646db0bdc5f"
+			sourcename="Recorder">
+				<element
+				capabilities="wpfelement, wpfgroupelement"
+				dontcache="False"
+				enabled="True"
+				flavor="wpf"
+				hasfocus="False"
+				index="0"
+				prefcap="button"
+				rect="1160,716,80,24"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Next
+					</attribute>
+					<attribute
+					name="basetype"
+					type="System.String">
+						System.Windows.Controls.Button
+					</attribute>
+					<attribute
+					name="fulltype"
+					type="System.String">
+						Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button&gt;
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						DepoGroup&lt;Button&gt;
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupleaderid"
+					type="System.Guid">
+						08bf2bf8-47ba-437b-8690-3ebd57292972
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupmemberids"
+					type="System.Guid[]">
+						AAEAAAD/////AQAAAAAAAAAHAQAAAAABAAAAAwAAAAMLU3lzdGVtLkd1aWQE/v///wtTeXN0ZW0u
+R3VpZAsAAAACX2ECX2ICX2MCX2QCX2UCX2YCX2cCX2gCX2kCX2oCX2sAAAAAAAAAAAAAAAgHBwIC
+AgICAgIC+Cu/CLpHe0OGkD69VykpcgH9/////v///ygFSnCvQ6VBhZEdWQ/Hh3kB/P////7///+v
+Rz89eJEnSqGDhWw8YiioCw==
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupobjectid"
+					type="System.Guid">
+						cfafd3d6-116c-4871-881c-932bb12aacbe
+					</attribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ActualHeight property of type Double."
+					name="ActualHeight"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ActualWidth property of type Double."
+					name="ActualWidth"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.AllowDrop property of type Boolean."
+					name="AllowDrop"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Background property of type Brush."
+					name="Background"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.BackgroundColor property of type String."
+					name="BackgroundColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.BindingGroup property of type BindingGroup."
+					name="BindingGroup"
+					readonly="False"
+					type="System.Windows.Data.BindingGroup, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.BitmapEffect property of type BitmapEffect."
+					name="BitmapEffect"
+					readonly="False"
+					type="System.Windows.Media.Effects.BitmapEffect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.BitmapEffectInput property of type BitmapEffectInput."
+					name="BitmapEffectInput"
+					readonly="False"
+					type="System.Windows.Media.Effects.BitmapEffectInput, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.BorderBrush property of type Brush."
+					name="BorderBrush"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.BorderColor property of type String."
+					name="BorderColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.CacheMode property of type CacheMode."
+					name="CacheMode"
+					readonly="False"
+					type="System.Windows.Media.CacheMode, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.caption property of type Object."
+					name="caption"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ClickMode property of type ClickMode."
+					name="ClickMode"
+					readonly="False"
+					type="System.Windows.Controls.ClickMode, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Clip property of type Geometry."
+					name="Clip"
+					readonly="False"
+					type="System.Windows.Media.Geometry, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ClipToBounds property of type Boolean."
+					name="ClipToBounds"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.CommandParameter property of type Object."
+					name="CommandParameter"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Content property of type Object."
+					name="Content"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ContentSource property of type String."
+					name="ContentSource"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ContentStringFormat property of type String."
+					name="ContentStringFormat"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ContextMenu property of type ContextMenu."
+					name="ContextMenu"
+					readonly="False"
+					type="System.Windows.Controls.ContextMenu, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.DataContext property of type Object."
+					name="DataContext"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Effect property of type Effect."
+					name="Effect"
+					readonly="False"
+					type="System.Windows.Media.Effects.Effect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.FlowDirection property of type FlowDirection."
+					name="FlowDirection"
+					readonly="False"
+					type="System.Windows.FlowDirection, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Focusable property of type Boolean."
+					name="Focusable"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.FontSize property of type Double."
+					name="FontSize"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ForceCursor property of type Boolean."
+					name="ForceCursor"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Foreground property of type Brush."
+					name="Foreground"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ForegroundColor property of type String."
+					name="ForegroundColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.HasContent property of type Boolean."
+					name="HasContent"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Height property of type Double."
+					name="Height"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.HorizontalAlignment property of type HorizontalAlignment."
+					name="HorizontalAlignment"
+					readonly="False"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.HorizontalContentAlignment property of type HorizontalAlignment."
+					name="HorizontalContentAlignment"
+					readonly="False"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.IsCancel property of type Boolean."
+					name="IsCancel"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.IsDefault property of type Boolean."
+					name="IsDefault"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.IsDefaulted property of type Boolean."
+					name="IsDefaulted"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.IsHitTestVisible property of type Boolean."
+					name="IsHitTestVisible"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.IsManipulationEnabled property of type Boolean."
+					name="IsManipulationEnabled"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.IsPressed property of type Boolean."
+					name="IsPressed"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.IsTabStop property of type Boolean."
+					name="IsTabStop"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.LayoutTransform property of type Transform."
+					name="LayoutTransform"
+					readonly="False"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.MaxHeight property of type Double."
+					name="MaxHeight"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.MaxWidth property of type Double."
+					name="MaxWidth"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.MinHeight property of type Double."
+					name="MinHeight"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.MinWidth property of type Double."
+					name="MinWidth"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Opacity property of type Double."
+					name="Opacity"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.OpacityMask property of type Brush."
+					name="OpacityMask"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.OverridesDefaultStyle property of type Boolean."
+					name="OverridesDefaultStyle"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.RecognizesAccessKey property of type Boolean."
+					name="RecognizesAccessKey"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.RenderTransform property of type Transform."
+					name="RenderTransform"
+					readonly="False"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.RenderTransformOrigin property of type Point."
+					name="RenderTransformOrigin"
+					readonly="False"
+					type="System.Windows.Point, WindowsBase, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.SnapsToDevicePixels property of type Boolean."
+					name="SnapsToDevicePixels"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.TabIndex property of type Int32."
+					name="TabIndex"
+					readonly="False"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Tag property of type Object."
+					name="Tag"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.ToolTip property of type Object."
+					name="ToolTip"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Uid property of type String."
+					name="Uid"
+					readonly="False"
+					type="System.String"
+					weight="150">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.UseLayoutRounding property of type Boolean."
+					name="UseLayoutRounding"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.VerticalAlignment property of type VerticalAlignment."
+					name="VerticalAlignment"
+					readonly="False"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.VerticalContentAlignment property of type VerticalAlignment."
+					name="VerticalContentAlignment"
+					readonly="False"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Visibility property of type Visibility."
+					name="Visibility"
+					readonly="False"
+					type="System.Windows.Visibility, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;System.Windows.Controls.Button>.Width property of type Double."
+					name="Width"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+				</element>
+				<path>
+					/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="db02c158-0ef3-4b4c-96e4-9d772084fdec">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAECAQIDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAI5fvRf7/wDQ06P/AFa/QU2X70X+
+/wD0NOj/ANWv0FJdRvoQXvSH/rp/7KaVOlJe9If+un/sppU6VT6ErqTLTqatOpDCiiigAooooAKK
+KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAjm+9F/v/0NOj/1
+a/QU2b70X+//AENOj/1a/QUl1G+hBe9If+un/sppU6Ul70h/66f+ymlTpVPoSupMtOpq06kMKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigCOb70X
++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
+/aUP9+P82/8AiaP7Sh/vx/m3/wATRzx7j9hV/lf3F6s7T/8AkKv/ANcF/ktP/tKH+/H+bf8AxNR6
+ayvqjlGDL5IGR3wFFROSdrM3o05xUnJNaf5Ghdf8sv8Af/8AZTT06Uy6/wCWX+//AOymnp0pvoYL
+qTLTqatOpDCiiigAooooAKKKKACiiigCOiqnkn+/J/38b/GjyT/fk/7+N/jT0FqW6KqeSf78n/fx
+v8aPJP8Afk/7+N/jRoGpboqp5J/vyf8Afxv8aPJP9+T/AL+N/jRoGpboqp5J/vyf9/G/xo8k/wB+
+T/v43+NGgaluiqnkn+/J/wB/G/xo8k/35P8Av43+NGgalp0V1KuoZT1BGRUX2S2/594v++BUXkn+
+/J/38b/GjyT/AH5P+/jf40WQ1KS2Jfslt/z7xf8AfAo+yW3/AD7xf98CovJP9+T/AL+N/jR5J/vy
+f9/G/wAaVoj559/xJfslt/z7xf8AfAo+yW3/AD7xf98CovJP9+T/AL+N/jR5J/vyf9/G/wAaLRDn
+n3/ErF72zhYxwrHBA7yMOCZFLk4HPACnP1wKXToIJhI0jfajE7IsryGQMpwR14BwQDj0qx5J/vyf
+9/G/xo8k/wB+T/v43+NPQm73Jfslt/z7xf8AfAo+yW3/AD7xf98CovJP9+T/AL+N/jR5J/vyf9/G
+/wAaVolc8+/4kv2S2/594v8AvgU6OCGJt0cSIemVUCoPJP8Afk/7+N/jR5J/vyf9/G/xotEHObJL
+rrD/AL//ALKakQcVCsA3AkuSORlyasKKbJQ9adSClpDCiiigAooooAKKKKACiiigCLbRtqTFGKAI
+9tG2pMUYoAj20bakxRigCPbRtqTFGKAI9tG2pMUYoAj20bakxRigCPbRtqTFGKAI9tG2pMUYoAj2
+0bakxRigCPbRtqTFGKAI9tG2pMUYoAYFpwFLiloAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igD/2Q==
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="b14f9dcf-dcb2-4956-9994-48d82b8e968f"
+	name="QQRepository"
+	relativepath="QQRepository.rxrep"
+	rxversion="7.2">
+		<codegen
+		classname="QQRepository"
+		namespace="QQ">
+		</codegen>
+		<rootfolder
+		id="22b4cdd8-cb0b-4a51-9f08-f14dc508a2da"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		SimpleData.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

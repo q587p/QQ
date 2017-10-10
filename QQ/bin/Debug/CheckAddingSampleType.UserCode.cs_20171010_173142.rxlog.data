@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="18.09s"
+		durationms="18094"
+		type="root"
+		rid="441e4f1324a47ac"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 17:31:47"
+		timestampiso="2017-10-10T14:31:47"
+		endtime="10.10.2017 17:32:05"
+		timeoutfactor="1"
+		module="CheckAddingSampleType">
+		<detail>
+			CheckAddingSampleType
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.875"
+			timeRelativeToTestModuleStartTime="00:00.890"
+			timeWallClock="17:31:48"
+			time="00:00.875"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'textInfo' at 23;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/text[@caption='Manage Types...']"
+				fullname="QQRepository.NewProtocolWizard.ManageTypes"
+				id="2f4bee80127b48ca889e1ececc0b8e5b"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="38"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:02.750"
+			timeRelativeToTestModuleStartTime="00:02.765"
+			timeWallClock="17:31:50"
+			time="00:02.750"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SampleTypesEditor.AddSampleType' at 76;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Sample Types Editor']/container[1]/?/?/button[@text='Add Sample Type']"
+				fullname="QQRepository.SampleTypesEditor.AddSampleType"
+				id="f6a1d6535f7648e08791c49346fa5f18"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs"
+				codeline="85"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.000"
+			timeRelativeToTestModuleStartTime="00:04.015"
+			timeWallClock="17:31:51"
+			time="00:04.000"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Text to 'Test' on item 'SampleTypesEditor.SomeContainer.SampleType29'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Sample Types Editor']//list[@automationid='SampleTypesSimplifiedView']/container[10]/text[@caption='SampleType29']"
+				fullname="QQRepository.SampleTypesEditor.SomeContainer.SampleType29"
+				id="f7e4fca5b47543639730aaa5036ccfa2"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs"
+				codeline="89"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.375"
+			timeRelativeToTestModuleStartTime="00:04.390"
+			timeWallClock="17:31:51"
+			time="00:04.375"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SampleTypesEditor.SomeContainer.ToggleButton' at 151;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Sample Types Editor']//list[@automationid='SampleTypesSimplifiedView']/container[10]/?/?/combobox/button[@automationid='toggleButton']"
+				fullname="QQRepository.SampleTypesEditor.SomeContainer.ToggleButton"
+				id="52f2c9f42c5044159cb82269788e1c4d"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs"
+				codeline="93"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.533"
+			timeRelativeToTestModuleStartTime="00:05.549"
+			timeWallClock="17:31:53"
+			time="00:05.533"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysDesktopExplorer.Unknown' at 52;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/contextmenu[@processname='MyAssays.Desktop.Explorer']/?/?/listitem[@text='Unknown']"
+				fullname="QQRepository.MyAssaysDesktopExplorer.Unknown"
+				id="3354663aa0ed4abba26780a02758cafb"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs"
+				codeline="97"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.537"
+			timeRelativeToTestModuleStartTime="00:06.553"
+			timeWallClock="17:31:54"
+			time="00:06.537"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SampleTypesEditor.ButtonOK' at 53;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Sample Types Editor']/container[1]/?/?/button[@text='OK']"
+				fullname="QQRepository.SampleTypesEditor.ButtonOK"
+				id="d4897c5ca3714d8d8a071f280b8acd3e"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs"
+				codeline="101"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.432"
+			timeRelativeToTestModuleStartTime="00:07.447"
+			timeWallClock="17:31:54"
+			time="00:07.432"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.ManageTypes' at 67;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/text[@caption='Manage Types...']"
+				fullname="QQRepository.NewProtocolWizard.ManageTypes"
+				id="2f4bee80127b48ca889e1ececc0b8e5b"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs"
+				codeline="105"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.276"
+			timeRelativeToTestModuleStartTime="00:08.291"
+			timeWallClock="17:31:55"
+			time="00:08.276"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 500ms.
+			</message>
+			<metainfo
+				itemindex="7"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs"
+				codeline="109"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.776"
+			timeRelativeToTestModuleStartTime="00:08.791"
+			timeWallClock="17:31:56"
+			time="00:08.776"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'SampleTypesEditor.SomeContainer.SomeButton' at 11;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Sample Types Editor']//list[@automationid='SampleTypesSimplifiedView']/container[10]/button[1]"
+				fullname="QQRepository.SampleTypesEditor.SomeContainer.SomeButton"
+				id="39f86998b8f54cf4a91f76fa50fc89cc"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs"
+				codeline="112"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.094"
+			timeRelativeToTestModuleStartTime="00:18.110"
+			timeWallClock="17:32:05"
+			time="00:18.094"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,1201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="52.42s"
+		durationms="52423"
+		type="root"
+		rid="54997b7edb92f97"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 15:29:23"
+		timestampiso="2017-10-10T12:29:23"
+		endtime="10.10.2017 15:30:15"
+		timeoutfactor="1"
+		module="ShallNotPass">
+		<detail>
+			ShallNotPass
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.843"
+			timeRelativeToTestModuleStartTime="00:00.859"
+			timeWallClock="15:29:24"
+			time="00:00.843"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Program Files (x86)\MyAssays\MyAssays Desktop\MyAssays.Desktop.Explorer.exe' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.921"
+			timeRelativeToTestModuleStartTime="00:00.937"
+			timeWallClock="15:29:24"
+			time="00:00.921"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.SomeTabPage' at 31;34.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/?/?/tabpagelist[@automationid='TabControl']/tabpage[@index='2']"
+				fullname="QQRepository.MyAssaysExplorer.SomeTabPage"
+				id="b93738a104c4421eb16a6242ea57f951"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.498"
+			timeRelativeToTestModuleStartTime="00:09.514"
+			timeWallClock="15:29:32"
+			time="00:09.498"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.New' at 18;5.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']//button[@automationid='NewFileRibbonButton']/list[@automationid='PART_Label']/text[@caption='New ']"
+				fullname="QQRepository.MyAssaysExplorer.New"
+				id="45b5d4583f684e3d9ac7b77ea84d41de"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.062"
+			timeRelativeToTestModuleStartTime="00:12.078"
+			timeWallClock="15:29:35"
+			time="00:12.062"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.IWillEnterPasteInMyData' at 98;1.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]//radiobutton[@text~'^I\ will\ enter/paste\ in\ my\ ']/text[@caption~'^I\ will\ enter/paste\ in\ my\ ']"
+				fullname="QQRepository.NewProtocolWizard.IWillEnterPasteInMyData"
+				id="cc5d29944b3341f2acf6f58819e4ee96"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.248"
+			timeRelativeToTestModuleStartTime="00:15.263"
+			timeWallClock="15:29:38"
+			time="00:15.248"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 47;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.138"
+			timeRelativeToTestModuleStartTime="00:16.154"
+			timeWallClock="15:29:39"
+			time="00:16.138"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.GoogleChrome.OtherCombination' at 169;15.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/container[1]/list[1]/listitem[@text='Other/Combination']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.OtherCombination"
+				id="21c06a36ecf046918871d6a976ee7436"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.076"
+			timeRelativeToTestModuleStartTime="00:17.092"
+			timeWallClock="15:29:40"
+			time="00:17.076"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 24;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.929"
+			timeRelativeToTestModuleStartTime="00:17.944"
+			timeWallClock="15:29:41"
+			time="00:17.929"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (Enabled='False') on item 'NewProtocolWizard.Next'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.163"
+			timeRelativeToTestModuleStartTime="00:18.179"
+			timeWallClock="15:29:41"
+			time="00:18.163"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'Enabled' of element for item 'QQRepository.NewProtocolWizard.Next' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="111"
+				loglvl="Success"
+				itemindex="7">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.272"
+			timeRelativeToTestModuleStartTime="00:18.288"
+			timeWallClock="15:29:41"
+			time="00:18.272"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Back1' at 63;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']"
+				fullname="QQRepository.NewProtocolWizard.Back1"
+				id="1447e34bba214ed384ac4bc7585b2507"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.194"
+			timeRelativeToTestModuleStartTime="00:19.210"
+			timeWallClock="15:29:42"
+			time="00:19.194"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.GoogleChrome.Endpoint' at 63;15.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/container[1]/list[1]/listitem[@text='Endpoint']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.Endpoint"
+				id="3bd33098115642cf9a0e576de8358049"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.112"
+			timeRelativeToTestModuleStartTime="00:20.128"
+			timeWallClock="15:29:43"
+			time="00:20.112"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.GoogleChrome.Other' at 29;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/container[1]/list[2]/listitem[@text='Other']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.Other"
+				id="0c88170ea06b43a8be997a99375ff218"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="122"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.099"
+			timeRelativeToTestModuleStartTime="00:21.115"
+			timeWallClock="15:29:44"
+			time="00:21.099"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 48;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.990"
+			timeRelativeToTestModuleStartTime="00:22.005"
+			timeWallClock="15:29:45"
+			time="00:21.990"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.ListItem1x11' at 71;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/?/?/list/?/?/listitem[@text='1x1 (1)']"
+				fullname="QQRepository.NewProtocolWizard.ListItem1x11"
+				id="47d896366f604cd7bd0cb0be1876b0f5"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="130"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.026"
+			timeRelativeToTestModuleStartTime="00:23.042"
+			timeWallClock="15:29:46"
+			time="00:23.026"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard' at 542;433.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']"
+				fullname="QQRepository.NewProtocolWizard.Self"
+				id="51f2e6d8100048868b24041b65c01a3d"
+				timeout="30000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="134"
+				itemindex="13"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.761"
+			timeRelativeToTestModuleStartTime="00:23.776"
+			timeWallClock="15:29:47"
+			time="00:23.761"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 42;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="138"
+				itemindex="14"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.621"
+			timeRelativeToTestModuleStartTime="00:24.637"
+			timeWallClock="15:29:48"
+			time="00:24.621"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[9]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox"
+				id="4cf442de3d5f4d5b82828ff62fec67de"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="142"
+				itemindex="15"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.918"
+			timeRelativeToTestModuleStartTime="00:24.934"
+			timeWallClock="15:29:48"
+			time="00:24.918"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox1'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[8]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox1"
+				id="eec52030f8ce4f459cc64334d21634c9"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="146"
+				itemindex="16"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:25.184"
+			timeRelativeToTestModuleStartTime="00:25.199"
+			timeWallClock="15:29:48"
+			time="00:25.184"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox2'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[7]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox2"
+				id="c7a5d3556aca4a86b5f58c79ce117026"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="150"
+				itemindex="17"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:25.445"
+			timeRelativeToTestModuleStartTime="00:25.461"
+			timeWallClock="15:29:48"
+			time="00:25.445"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox3'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[6]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox3"
+				id="7f9cf7c5d6644944aeb1c3052449f607"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="154"
+				itemindex="18"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:25.711"
+			timeRelativeToTestModuleStartTime="00:25.726"
+			timeWallClock="15:29:49"
+			time="00:25.711"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox4'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[5]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox4"
+				id="f2cf083df00548d0a3de37364433ea41"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="158"
+				itemindex="19"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:25.961"
+			timeRelativeToTestModuleStartTime="00:25.976"
+			timeWallClock="15:29:49"
+			time="00:25.961"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox5'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[4]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox5"
+				id="a96897f278cb4bf6846341dc2f70d5dc"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="162"
+				itemindex="20"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:26.227"
+			timeRelativeToTestModuleStartTime="00:26.242"
+			timeWallClock="15:29:49"
+			time="00:26.227"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox6'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[3]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox6"
+				id="d775555215084a9bbfa2f86202b0e5d5"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="166"
+				itemindex="21"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:26.508"
+			timeRelativeToTestModuleStartTime="00:26.523"
+			timeWallClock="15:29:49"
+			time="00:26.508"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox7'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[2]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox7"
+				id="36166680390d48518720ba9daf66734e"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="170"
+				itemindex="22"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:26.760"
+			timeRelativeToTestModuleStartTime="00:26.776"
+			timeWallClock="15:29:50"
+			time="00:26.760"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox8'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[1]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox8"
+				id="6115568519ce49b9b0c0eac254dcf9ab"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="174"
+				itemindex="23"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.026"
+			timeRelativeToTestModuleStartTime="00:27.041"
+			timeWallClock="15:29:50"
+			time="00:27.026"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 27;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="178"
+				itemindex="24"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.858"
+			timeRelativeToTestModuleStartTime="00:27.874"
+			timeWallClock="15:29:51"
+			time="00:27.858"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating Exists on item 'NewProtocolWizard.NewProtocolWizard'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/titlebar[@accessiblerole='TitleBar']"
+				fullname="QQRepository.NewProtocolWizard.NewProtocolWizard"
+				id="62f511b38cef4f59a8dc1fac39961356"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="182"
+				itemindex="25"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.916"
+			timeRelativeToTestModuleStartTime="00:27.932"
+			timeWallClock="15:29:51"
+			time="00:27.916"
+			level="Success"
+			category="Validation">
+			<message>
+				Element for item 'NewProtocolWizard' does exist.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/titlebar[@accessiblerole='TitleBar']"
+				fullname="QQRepository.NewProtocolWizard.NewProtocolWizard"
+				id="62f511b38cef4f59a8dc1fac39961356"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="183"
+				loglvl="Success"
+				itemindex="25">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:28.028"
+			timeRelativeToTestModuleStartTime="00:28.044"
+			timeWallClock="15:29:51"
+			time="00:28.028"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Escape}'.
+			</message>
+			<metainfo
+				itemindex="26"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="186"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:28.306"
+			timeRelativeToTestModuleStartTime="00:28.322"
+			timeWallClock="15:29:51"
+			time="00:28.306"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'True' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox8'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[1]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox8"
+				id="6115568519ce49b9b0c0eac254dcf9ab"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="190"
+				itemindex="27"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:28.562"
+			timeRelativeToTestModuleStartTime="00:28.578"
+			timeWallClock="15:29:51"
+			time="00:28.562"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 25;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="194"
+				itemindex="28"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:29.420"
+			timeRelativeToTestModuleStartTime="00:29.436"
+			timeWallClock="15:29:52"
+			time="00:29.420"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.SomeListItem2' at 127;67.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//container[@automationid='Self']/list[@automationid='MainListBox']/listitem[@index='0']"
+				fullname="QQRepository.NewProtocolWizard.SomeListItem2"
+				id="d3319e40a30c4ad8b0e7b73981a27e38"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="198"
+				itemindex="29"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:30.427"
+			timeRelativeToTestModuleStartTime="00:30.443"
+			timeWallClock="15:29:53"
+			time="00:30.427"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.EditButton' at 72;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//container[@automationid='Self']/button[@automationid='EditButton']"
+				fullname="QQRepository.NewProtocolWizard.EditButton"
+				id="a88844872915494cb60433d22ed0d1f2"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="202"
+				itemindex="30"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:31.292"
+			timeRelativeToTestModuleStartTime="00:31.308"
+			timeWallClock="15:29:54"
+			time="00:31.292"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'LayoutEditor.Clear' at 14;2.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Layout Editor']/?/?/menubar/list[1]/list[3]/button[@automationid='ElementClearButton']/list[@automationid='PART_Label']/text[@caption='Clear ']"
+				fullname="QQRepository.LayoutEditor.Clear"
+				id="3c6e0b6e180f47a0b55f231a613d9101"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="206"
+				itemindex="31"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:32.698"
+			timeRelativeToTestModuleStartTime="00:32.713"
+			timeWallClock="15:29:56"
+			time="00:32.698"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (Enabled='False') on item 'LayoutEditor.ElementSaveButton'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Layout Editor']/?/?/menubar/list[1]/list[@automationid='ChildBlock']/button[@automationid='ElementSaveButton']"
+				fullname="QQRepository.LayoutEditor.ElementSaveButton"
+				id="8210a615bb6643aaa855a4e4d25b0ed0"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="210"
+				itemindex="32"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:33.238"
+			timeRelativeToTestModuleStartTime="00:33.254"
+			timeWallClock="15:29:56"
+			time="00:33.238"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'Enabled' of element for item 'QQRepository.LayoutEditor.ElementSaveButton' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Layout Editor']/?/?/menubar/list[1]/list[@automationid='ChildBlock']/button[@automationid='ElementSaveButton']"
+				fullname="QQRepository.LayoutEditor.ElementSaveButton"
+				id="8210a615bb6643aaa855a4e4d25b0ed0"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="211"
+				loglvl="Success"
+				itemindex="32">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:33.342"
+			timeRelativeToTestModuleStartTime="00:33.357"
+			timeWallClock="15:29:56"
+			time="00:33.342"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'LayoutEditor' at 1099;787.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Layout Editor']"
+				fullname="QQRepository.LayoutEditor.Self"
+				id="8c19997c3ee04c388b3ba4b2002c80e3"
+				timeout="30000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="214"
+				itemindex="33"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:34.013"
+			timeRelativeToTestModuleStartTime="00:34.028"
+			timeWallClock="15:29:57"
+			time="00:34.013"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'LayoutEditor.ElementSaveButton' at 35;24.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Layout Editor']/?/?/menubar/list[1]/list[@automationid='ChildBlock']/button[@automationid='ElementSaveButton']"
+				fullname="QQRepository.LayoutEditor.ElementSaveButton"
+				id="8210a615bb6643aaa855a4e4d25b0ed0"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="218"
+				itemindex="34"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:35.226"
+			timeRelativeToTestModuleStartTime="00:35.242"
+			timeWallClock="15:29:58"
+			time="00:35.226"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 45;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="222"
+				itemindex="35"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:36.052"
+			timeRelativeToTestModuleStartTime="00:36.067"
+			timeWallClock="15:29:59"
+			time="00:36.052"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.TabPagePad.ClearButton' at 65;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//tabpage[@title='Pad']/text[@automationid='PadViewTextBox']//button[@automationid='ClearButton']"
+				fullname="QQRepository.NewProtocolWizard.TabPagePad.ClearButton"
+				id="23e2db0fcc5c4b40bfabe2da283e7c94"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="226"
+				itemindex="36"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:37.670"
+			timeRelativeToTestModuleStartTime="00:37.685"
+			timeWallClock="15:30:01"
+			time="00:37.670"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (Enabled='False') on item 'NewProtocolWizard.Next'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="230"
+				itemindex="37"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:37.904"
+			timeRelativeToTestModuleStartTime="00:37.920"
+			timeWallClock="15:30:01"
+			time="00:37.904"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'Enabled' of element for item 'QQRepository.NewProtocolWizard.Next' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="231"
+				loglvl="Success"
+				itemindex="37">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:38.013"
+			timeRelativeToTestModuleStartTime="00:38.029"
+			timeWallClock="15:30:01"
+			time="00:38.013"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.TabPagePad.SomeText' at 102;77.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//tabpage[@title='Pad']/text[@automationid='PadViewTextBox']/text[@caption='']"
+				fullname="QQRepository.NewProtocolWizard.TabPagePad.SomeText"
+				id="6f537a5464174bfcb18f35e78e178f57"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="234"
+				itemindex="38"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:39.012"
+			timeRelativeToTestModuleStartTime="00:39.028"
+			timeWallClock="15:30:02"
+			time="00:39.012"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{NumPad1}'.
+			</message>
+			<metainfo
+				itemindex="39"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="238"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:39.222"
+			timeRelativeToTestModuleStartTime="00:39.237"
+			timeWallClock="15:30:02"
+			time="00:39.222"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 40;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="242"
+				itemindex="40"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:40.162"
+			timeRelativeToTestModuleStartTime="00:40.178"
+			timeWallClock="15:30:03"
+			time="00:40.162"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Text to '(null)' on item 'NewProtocolWizard.GoogleChrome.MyEndpoint1x1Protocol1'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/container[1]/container[@caption='']/text[@caption~'^My\ Endpoint\ 1x1\ Protocol\ ']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.MyEndpoint1x1Protocol1"
+				id="e168df123638441884e3294f0b8848b2"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="246"
+				itemindex="41"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:40.303"
+			timeRelativeToTestModuleStartTime="00:40.318"
+			timeWallClock="15:30:03"
+			time="00:40.303"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 27;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="250"
+				itemindex="42"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:41.151"
+			timeRelativeToTestModuleStartTime="00:41.167"
+			timeWallClock="15:30:04"
+			time="00:41.151"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (Enabled='False') on item 'NewProtocolWizard.Next'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="254"
+				itemindex="43"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:41.307"
+			timeRelativeToTestModuleStartTime="00:41.323"
+			timeWallClock="15:30:04"
+			time="00:41.307"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'Enabled' of element for item 'QQRepository.NewProtocolWizard.Next' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="255"
+				loglvl="Success"
+				itemindex="43">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:41.417"
+			timeRelativeToTestModuleStartTime="00:41.432"
+			timeWallClock="15:30:04"
+			time="00:41.417"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Down item 'NewProtocolWizard.GoogleChrome.SomeText' at 371;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/container[1]/container[@caption='']/text[@caption='']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.SomeText"
+				id="273bc5dd166e4ea68c07803e12232555"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="258"
+				itemindex="44"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:42.126"
+			timeRelativeToTestModuleStartTime="00:42.141"
+			timeWallClock="15:30:05"
+			time="00:42.126"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LShiftKey down}Q{LShiftKey up}'.
+			</message>
+			<metainfo
+				itemindex="45"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="263"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:42.337"
+			timeRelativeToTestModuleStartTime="00:42.352"
+			timeWallClock="15:30:05"
+			time="00:42.337"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 27;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="267"
+				itemindex="46"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:43.159"
+			timeRelativeToTestModuleStartTime="00:43.175"
+			timeWallClock="15:30:06"
+			time="00:43.159"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.LaunchProtocol'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/?/?/checkbox[@text='Launch protocol']"
+				fullname="QQRepository.NewProtocolWizard.LaunchProtocol"
+				id="446608efd8c848178aa667d2339d5fbb"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\ShallNotPass.cs"
+				codeline="271"
+				itemindex="47"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:52.423"
+			timeRelativeToTestModuleStartTime="00:52.438"
+			timeWallClock="15:30:15"
+			time="00:52.423"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

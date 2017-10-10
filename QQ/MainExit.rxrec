@@ -1,0 +1,1392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="22f8f0d5-f96f-40b4-abdd-ce59d84ca1b3"
+mode="Desktop"
+rxversion="7.2">
+	<name>
+		MainExit
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="MainExit"
+	namespace="QQ">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<invokeactionrecorditem
+		action="Focus"
+		enabled="True"
+		optional="False"
+		searchpropertyid="2471a0e2-5296-4c78-89dc-04a49f5bb0ad"
+		varname="">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="2e14d485-e0b1-42f0-8e57-8f5febeb78ec"
+			sourcename="ItemRecorderEditor">
+				<path>
+					/form[@title='MyAssays Explorer']
+				</path>
+			</info>
+			<arguments
+			id="a1c574f4-4664-46c3-9ca3-691ed30f94b7">
+			</arguments>
+		</invokeactionrecorditem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="500ms"
+		enabled="True"
+		loc="34;13"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="560e0054-33dd-473b-9252-2b7e52761c19"
+		sx="35"
+		sy="35"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="600d73c3-cd61-40e0-9539-2c7ecae25ee0"
+			sourcename="Recorder">
+				<element
+				capabilities="wpfelement, wpfgroupelement"
+				dontcache="False"
+				enabled="True"
+				flavor="wpf"
+				hasfocus="False"
+				index="0"
+				prefcap="button"
+				rect="1,22,58,24"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						File
+					</attribute>
+					<attribute
+					name="basetype"
+					type="System.String">
+						System.Windows.Controls.Primitives.ButtonBase
+					</attribute>
+					<attribute
+					name="fulltype"
+					type="System.String">
+						Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton&gt;
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						DepoGroup&lt;BackStageButton&gt;
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupleaderid"
+					type="System.Guid">
+						dfa46190-ac7f-48ca-9b46-c8dd360f2327
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupmemberids"
+					type="System.Guid[]">
+						AAEAAAD/////AQAAAAAAAAAHAQAAAAABAAAACAAAAAMLU3lzdGVtLkd1aWQE/v///wtTeXN0ZW0u
+R3VpZAsAAAACX2ECX2ICX2MCX2QCX2UCX2YCX2cCX2gCX2kCX2oCX2sAAAAAAAAAAAAAAAgHBwIC
+AgICAgICZw3LKLE/D0iHMp4hQXwu0AH9/////v///5BhpN9/rMpIm0bI3TYPIycB/P////7///9W
+vllsXBWrT6A9211UhgtVAfv////+////shy7RcyYPUGhRdiKFqjZzAH6/////v///4rcTjeV+sxH
+gWmJglQbXMkB+f////7///9UwYd8uvlgRKKYGfCGc72RAfj////+////JO3ambMO/EC4o2YCPk9a
+XQH3/////v///y81LJgLYOZMmG4r4HCIk9sL
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupobjectid"
+					type="System.Guid">
+						21a79bdf-4e36-48c2-b73b-0f22c8f885c9
+					</attribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ActualHeight property of type Double."
+					name="ActualHeight"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ActualWidth property of type Double."
+					name="ActualWidth"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.AllowDrop property of type Boolean."
+					name="AllowDrop"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Background property of type Brush."
+					name="Background"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.BackgroundColor property of type String."
+					name="BackgroundColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.BindingGroup property of type BindingGroup."
+					name="BindingGroup"
+					readonly="False"
+					type="System.Windows.Data.BindingGroup, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.BitmapEffect property of type BitmapEffect."
+					name="BitmapEffect"
+					readonly="False"
+					type="System.Windows.Media.Effects.BitmapEffect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.BitmapEffectInput property of type BitmapEffectInput."
+					name="BitmapEffectInput"
+					readonly="False"
+					type="System.Windows.Media.Effects.BitmapEffectInput, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.BorderBrush property of type Brush."
+					name="BorderBrush"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.BorderColor property of type String."
+					name="BorderColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.CacheMode property of type CacheMode."
+					name="CacheMode"
+					readonly="False"
+					type="System.Windows.Media.CacheMode, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ClickMode property of type ClickMode."
+					name="ClickMode"
+					readonly="False"
+					type="System.Windows.Controls.ClickMode, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Clip property of type Geometry."
+					name="Clip"
+					readonly="False"
+					type="System.Windows.Media.Geometry, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ClipToBounds property of type Boolean."
+					name="ClipToBounds"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Column property of type Int32."
+					name="Column"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ColumnSpan property of type Int32."
+					name="ColumnSpan"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.CommandParameter property of type Object."
+					name="CommandParameter"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Content property of type Object."
+					name="Content"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ContentSource property of type String."
+					name="ContentSource"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ContentStringFormat property of type String."
+					name="ContentStringFormat"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ContextMenu property of type ContextMenu."
+					name="ContextMenu"
+					readonly="False"
+					type="System.Windows.Controls.ContextMenu, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.DataContext property of type Object."
+					name="DataContext"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Effect property of type Effect."
+					name="Effect"
+					readonly="False"
+					type="System.Windows.Media.Effects.Effect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Fill property of type Brush."
+					name="Fill"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.FlowDirection property of type FlowDirection."
+					name="FlowDirection"
+					readonly="False"
+					type="System.Windows.FlowDirection, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Focusable property of type Boolean."
+					name="Focusable"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.FontSize property of type Double."
+					name="FontSize"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ForceCursor property of type Boolean."
+					name="ForceCursor"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Foreground property of type Brush."
+					name="Foreground"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ForegroundColor property of type String."
+					name="ForegroundColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.HasContent property of type Boolean."
+					name="HasContent"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Header property of type Object."
+					name="Header"
+					readonly="False"
+					type="System.Object"
+					weight="107">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Height property of type Double."
+					name="Height"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.HorizontalAlignment property of type HorizontalAlignment."
+					name="HorizontalAlignment"
+					readonly="False"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.HorizontalContentAlignment property of type HorizontalAlignment."
+					name="HorizontalContentAlignment"
+					readonly="False"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.IsHitTestVisible property of type Boolean."
+					name="IsHitTestVisible"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.IsHitTestVisibleInChrome property of type Boolean."
+					name="IsHitTestVisibleInChrome"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.IsItemsHost property of type Boolean."
+					name="IsItemsHost"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.IsManipulationEnabled property of type Boolean."
+					name="IsManipulationEnabled"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.IsOpen property of type Boolean."
+					name="IsOpen"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.IsPressed property of type Boolean."
+					name="IsPressed"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.IsSharedSizeScope property of type Boolean."
+					name="IsSharedSizeScope"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.IsTabStop property of type Boolean."
+					name="IsTabStop"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.LayoutTransform property of type Transform."
+					name="LayoutTransform"
+					readonly="False"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.MaxHeight property of type Double."
+					name="MaxHeight"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.MaxWidth property of type Double."
+					name="MaxWidth"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.MinHeight property of type Double."
+					name="MinHeight"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.MinWidth property of type Double."
+					name="MinWidth"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Opacity property of type Double."
+					name="Opacity"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.OpacityMask property of type Brush."
+					name="OpacityMask"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.OverridesDefaultStyle property of type Boolean."
+					name="OverridesDefaultStyle"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.RadiusX property of type Double."
+					name="RadiusX"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.RadiusY property of type Double."
+					name="RadiusY"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.RecognizesAccessKey property of type Boolean."
+					name="RecognizesAccessKey"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.RenderTransform property of type Transform."
+					name="RenderTransform"
+					readonly="False"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.RenderTransformOrigin property of type Point."
+					name="RenderTransformOrigin"
+					readonly="False"
+					type="System.Windows.Point, WindowsBase, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Row property of type Int32."
+					name="Row"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.RowSpan property of type Int32."
+					name="RowSpan"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ShowGridLines property of type Boolean."
+					name="ShowGridLines"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.SnapsToDevicePixels property of type Boolean."
+					name="SnapsToDevicePixels"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Stretch property of type Stretch."
+					name="Stretch"
+					readonly="False"
+					type="System.Windows.Media.Stretch, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Stroke property of type Brush."
+					name="Stroke"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.StrokeDashArray property of type DoubleCollection."
+					name="StrokeDashArray"
+					readonly="False"
+					type="System.Windows.Media.DoubleCollection, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.StrokeDashCap property of type PenLineCap."
+					name="StrokeDashCap"
+					readonly="False"
+					type="System.Windows.Media.PenLineCap, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.StrokeDashOffset property of type Double."
+					name="StrokeDashOffset"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.StrokeEndLineCap property of type PenLineCap."
+					name="StrokeEndLineCap"
+					readonly="False"
+					type="System.Windows.Media.PenLineCap, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.StrokeLineJoin property of type PenLineJoin."
+					name="StrokeLineJoin"
+					readonly="False"
+					type="System.Windows.Media.PenLineJoin, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.StrokeMiterLimit property of type Double."
+					name="StrokeMiterLimit"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.StrokeStartLineCap property of type PenLineCap."
+					name="StrokeStartLineCap"
+					readonly="False"
+					type="System.Windows.Media.PenLineCap, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.StrokeThickness property of type Double."
+					name="StrokeThickness"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.TabIndex property of type Int32."
+					name="TabIndex"
+					readonly="False"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Tag property of type Object."
+					name="Tag"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ToolTip property of type Object."
+					name="ToolTip"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Uid property of type String."
+					name="Uid"
+					readonly="False"
+					type="System.String"
+					weight="150">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.UseLayoutRounding property of type Boolean."
+					name="UseLayoutRounding"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.VerticalAlignment property of type VerticalAlignment."
+					name="VerticalAlignment"
+					readonly="False"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.VerticalContentAlignment property of type VerticalAlignment."
+					name="VerticalContentAlignment"
+					readonly="False"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Visibility property of type Visibility."
+					name="Visibility"
+					readonly="False"
+					type="System.Windows.Visibility, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.Width property of type Double."
+					name="Width"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.ZIndex property of type Int32."
+					name="ZIndex"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicaction
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageButton>.OnApplyTemplate method."
+					displayName="OnApplyTemplate">
+						<returns
+						description="Return value."
+						displayName="returns"
+						type="System.Void">
+						</returns>
+					</dynamicaction>
+				</element>
+				<path>
+					/form[@title='MyAssays Explorer']/?/?/button[@automationid='ToggleButton']/button[@text='File']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="24eeeda9-fb1b-4b6f-b76b-9a0fa480ebb6">
+				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
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="500ms"
+		enabled="True"
+		loc="22;14"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="fa1b62f5-a642-46a0-94a6-f85c3b2aa8ec"
+		sx="25"
+		sy="223"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="f904e6d6-96e4-4659-911f-ab07e6d5c3ba"
+			sourcename="Recorder">
+				<element
+				capabilities="wpfelement, wpfgroupelement"
+				dontcache="False"
+				enabled="True"
+				flavor="wpf"
+				hasfocus="False"
+				index="4"
+				prefcap="button"
+				rect="3,209,136,30"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Exit
+					</attribute>
+					<attribute
+					name="automationid"
+					type="System.String">
+						ExitCommandButton
+					</attribute>
+					<attribute
+					name="basetype"
+					type="System.String">
+						System.Windows.Controls.Primitives.ButtonBase
+					</attribute>
+					<attribute
+					name="fulltype"
+					type="System.String">
+						Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton&gt;
+					</attribute>
+					<attribute
+					name="name"
+					type="System.String">
+						ExitCommandButton
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						DepoGroup&lt;BackStageCommandButton&gt;
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupleaderid"
+					type="System.Guid">
+						76886bea-a929-440b-bc3e-6f125d9c0e5a
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupmemberids"
+					type="System.Guid[]">
+						AAEAAAD/////AQAAAAAAAAAHAQAAAAABAAAABQAAAAMLU3lzdGVtLkd1aWQE/v///wtTeXN0ZW0u
+R3VpZAsAAAACX2ECX2ICX2MCX2QCX2UCX2YCX2cCX2gCX2kCX2oCX2sAAAAAAAAAAAAAAAgHBwIC
+AgICAgIC6muIdimpC0S8Pm8SXZwOWgH9/////v///7FtOA1kG0NFrTBCDytNqwQB/P////7///8u
+KwxwfAPFSrJB8ecKqDSPAfv////+////K5juYgrIu0S1R4ucGcSSvAH6/////v////rOJcLfSNBA
+j6ikDGVGDoQL
+					</attribute>
+					<attribute
+					name="ranorex_v7p2p0+gitpffdcf8e6_groupobjectid"
+					type="System.Guid">
+						51bb0dfc-ec01-49db-84ea-d288c641caf5
+					</attribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ActualHeight property of type Double."
+					name="ActualHeight"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ActualWidth property of type Double."
+					name="ActualWidth"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.AllowDrop property of type Boolean."
+					name="AllowDrop"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Background property of type Brush."
+					name="Background"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.BackgroundColor property of type String."
+					name="BackgroundColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.BindingGroup property of type BindingGroup."
+					name="BindingGroup"
+					readonly="False"
+					type="System.Windows.Data.BindingGroup, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.BitmapEffect property of type BitmapEffect."
+					name="BitmapEffect"
+					readonly="False"
+					type="System.Windows.Media.Effects.BitmapEffect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.BitmapEffectInput property of type BitmapEffectInput."
+					name="BitmapEffectInput"
+					readonly="False"
+					type="System.Windows.Media.Effects.BitmapEffectInput, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.BorderBrush property of type Brush."
+					name="BorderBrush"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.BorderColor property of type String."
+					name="BorderColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.CacheMode property of type CacheMode."
+					name="CacheMode"
+					readonly="False"
+					type="System.Windows.Media.CacheMode, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.caption property of type Object."
+					name="caption"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ClickMode property of type ClickMode."
+					name="ClickMode"
+					readonly="False"
+					type="System.Windows.Controls.ClickMode, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Clip property of type Geometry."
+					name="Clip"
+					readonly="False"
+					type="System.Windows.Media.Geometry, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ClipToBounds property of type Boolean."
+					name="ClipToBounds"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.CollapseLabel property of type String."
+					name="CollapseLabel"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Column property of type Int32."
+					name="Column"
+					readonly="False"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ColumnSpan property of type Int32."
+					name="ColumnSpan"
+					readonly="False"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.CommandParameter property of type Object."
+					name="CommandParameter"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Content property of type Object."
+					name="Content"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ContentStringFormat property of type String."
+					name="ContentStringFormat"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ContextMenu property of type ContextMenu."
+					name="ContextMenu"
+					readonly="False"
+					type="System.Windows.Controls.ContextMenu, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.DataContext property of type Object."
+					name="DataContext"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Effect property of type Effect."
+					name="Effect"
+					readonly="False"
+					type="System.Windows.Media.Effects.Effect, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.FlowDirection property of type FlowDirection."
+					name="FlowDirection"
+					readonly="False"
+					type="System.Windows.FlowDirection, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Focusable property of type Boolean."
+					name="Focusable"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.FontSize property of type Double."
+					name="FontSize"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ForceCursor property of type Boolean."
+					name="ForceCursor"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Foreground property of type Brush."
+					name="Foreground"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ForegroundColor property of type String."
+					name="ForegroundColor"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.HasContent property of type Boolean."
+					name="HasContent"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Header property of type String."
+					name="Header"
+					readonly="False"
+					type="System.String"
+					weight="107">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Height property of type Double."
+					name="Height"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.HorizontalAlignment property of type HorizontalAlignment."
+					name="HorizontalAlignment"
+					readonly="False"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.HorizontalContentAlignment property of type HorizontalAlignment."
+					name="HorizontalContentAlignment"
+					readonly="False"
+					type="System.Windows.HorizontalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Icon property of type ImageSource."
+					name="Icon"
+					readonly="False"
+					type="System.Windows.Media.ImageSource, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsHitTestVisible property of type Boolean."
+					name="IsHitTestVisible"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsItemsHost property of type Boolean."
+					name="IsItemsHost"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsLargeImageVisible property of type Boolean."
+					name="IsLargeImageVisible"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsManipulationEnabled property of type Boolean."
+					name="IsManipulationEnabled"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsMenuItem property of type Boolean."
+					name="IsMenuItem"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsPressed property of type Boolean."
+					name="IsPressed"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsSelected property of type Boolean."
+					name="IsSelected"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsSharedSizeScope property of type Boolean."
+					name="IsSharedSizeScope"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsSmallImageVisible property of type Boolean."
+					name="IsSmallImageVisible"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsTabStop property of type Boolean."
+					name="IsTabStop"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.IsToggle property of type Boolean."
+					name="IsToggle"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ItemForItemContainer property of type Object."
+					name="ItemForItemContainer"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Label property of type String."
+					name="Label"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.LargeIcon property of type ImageSource."
+					name="LargeIcon"
+					readonly="False"
+					type="System.Windows.Media.ImageSource, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.LayoutTransform property of type Transform."
+					name="LayoutTransform"
+					readonly="False"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.MaxHeight property of type Double."
+					name="MaxHeight"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.MaxWidth property of type Double."
+					name="MaxWidth"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.MinHeight property of type Double."
+					name="MinHeight"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.MinWidth property of type Double."
+					name="MinWidth"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Opacity property of type Double."
+					name="Opacity"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.OpacityMask property of type Brush."
+					name="OpacityMask"
+					readonly="False"
+					type="System.Windows.Media.Brush, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.OverridesDefaultStyle property of type Boolean."
+					name="OverridesDefaultStyle"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.RenderTransform property of type Transform."
+					name="RenderTransform"
+					readonly="False"
+					type="System.Windows.Media.Transform, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.RenderTransformOrigin property of type Point."
+					name="RenderTransformOrigin"
+					readonly="False"
+					type="System.Windows.Point, WindowsBase, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Row property of type Int32."
+					name="Row"
+					readonly="False"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.RowSpan property of type Int32."
+					name="RowSpan"
+					readonly="False"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ShowGridLines property of type Boolean."
+					name="ShowGridLines"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.SizeForm property of type SizeForm."
+					name="SizeForm"
+					readonly="False"
+					type="Syncfusion.Windows.Tools.SizeForm, Syncfusion.Tools.Wpf, Version=11.4400.0.26, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.SmallIcon property of type ImageSource."
+					name="SmallIcon"
+					readonly="False"
+					type="System.Windows.Media.ImageSource, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.SnapsToDevicePixels property of type Boolean."
+					name="SnapsToDevicePixels"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.TabIndex property of type Int32."
+					name="TabIndex"
+					readonly="False"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Tag property of type Object."
+					name="Tag"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ToolTip property of type Object."
+					name="ToolTip"
+					readonly="False"
+					type="System.Object">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Uid property of type String."
+					name="Uid"
+					readonly="False"
+					type="System.String"
+					weight="150">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.UseLayoutRounding property of type Boolean."
+					name="UseLayoutRounding"
+					readonly="False"
+					type="System.Boolean">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.VerticalAlignment property of type VerticalAlignment."
+					name="VerticalAlignment"
+					readonly="False"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.VerticalContentAlignment property of type VerticalAlignment."
+					name="VerticalContentAlignment"
+					readonly="False"
+					type="System.Windows.VerticalAlignment, PresentationFramework, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Visibility property of type Visibility."
+					name="Visibility"
+					readonly="False"
+					type="System.Windows.Visibility, PresentationCore, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.VisualStyle property of type String."
+					name="VisualStyle"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.Width property of type Double."
+					name="Width"
+					readonly="False"
+					type="System.Double">
+					</dynamicattribute>
+					<dynamicattribute
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.ZIndex property of type Int32."
+					name="ZIndex"
+					readonly="False"
+					type="System.Int32">
+					</dynamicattribute>
+					<dynamicaction
+					description="The WPF Ranorex.Plugin.Wpf.DepoGroup&lt;Syncfusion.Windows.Tools.Controls.BackStageCommandButton>.OnApplyTemplate method."
+					displayName="OnApplyTemplate">
+						<returns
+						description="Return value."
+						displayName="returns"
+						type="System.Void">
+						</returns>
+					</dynamicaction>
+				</element>
+				<path>
+					/form[@title='MyAssays Explorer']/picture[@automationid='Part_SysIcon']//button[@automationid='ExitCommandButton']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="a5e3b4b1-14d1-40a5-bcf3-8ce5a0760078">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAF6AQQDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCW2XMX
+41LspYDCsK/vGBIBP7tjzUm+H/nq/wD36avPqJym2u/dHTBpRSIwuGBHUHNCqU6Y6g81Jvh/56v/
+AN+Wpd0P/PV/+/LVKUlt+aKbTIdmQMquQMbu9Gypt0P/AD1f/vy1G6H/AJ6v/wB+W/wocZPf80Ca
+RDsrQsv+PZfq38zVXdD/AM9X/wC/Lf4U5Jo412rM4H/XFv8ACtKV4Su/zX+ZE/eVkX80yZPNhePO
+Nylc+maq/aV/57v/AN+T/hR9pX/nu/8A35P+FdPtV2/L/My5H/VyeaATMSWxlCnA9cc/pTRA5bfL
+IGfK/dXAwM+/uai+0r/z3f8A78n/AAo+0r/z3f8A78n/AAo9qu35f5hyP+rkxtwVKs3B35wP7xzR
+awfZ1IxFzjlI9mfrzzUH2lf+e7/9+T/hR9qH/PZ/+/J/wo9qu35f5hyP+rl7NGao/ah/z2f/AL8n
+/Cj7UP8Ans//AH5P+FHtl2/L/MOR/wBXL2aM1R+1D/ns/wD35P8AhT4JWnlKJK3AzkxkfzoVVPZf
+l/mHJ/WpI8BLF0cK+/epK5A4xjFN+zSLhkmAcg7iUyDk56Z4qXyZf+e3/jgo8mX/AJ7f+OCq5n/K
+/wAP8xWXcia1/d7EZRwoBZc4wPYjn3qwo2oFJJwMZPemeTL/AM9v/HBR5Mv/AD2/8cFHM/5X+H+Y
+WXckzRmo/Jl/57f+OUeTL/z2/wDHKOZ/yv8AD/MLLuSZpkodkwjICeu5dwI+mRSeTL/z2/8AHKXy
+Zf8Ant/45RzPs/w/zCy7lc2jiPYswAKbW+T69OeOtKIJGkbe4EfmbwuOTjGOc9PwqfyZf+e3/jlH
+ky/89v8AxyjmfZ/h/mFl3KyWrvCqzOMBCAAORn1OeakEDklpZQz5XlVwMA56Z+tS+TL/AM9v/HKP
+Jl/57f8AjlHM+z/D/MLLuIiFJJG3Aq5BxjkHAHX8KkzTPJl/57f+OUeTL/z2/wDHKOZ9n+H+YWXc
+fmimeTL/AM9v/HKKOZ9n+H+YWXczIv8AVJ/uin4psP8AqU/3RUmK8qS95nYnoJijFJI+xoxjO9tv
+04J/pTJLuBIXkEqNsXJAYfh+dUoNiciXFLio0njOxWkiDuMhQ+c/T1pxngGczRjb1+Ycf5wfyp8j
+FzDsUYpBNCd2JYztG5vmHA9T7Uxru3Xyv3qESsVUhhjp/kfiKfIw5iXFJikM0aKplkjTdwPnGD9K
+UyxCQRmRA5OApYZP4U+ULhijFPxRilyhcjxRin4pMVPKO4zFJin4pMUmh3G4qxY/64/7v+FRKhds
+KMmr0EAiGerHqa1oU25p9iKkko2JaKKK9I5AooooAKKKKACiiigAooooAKKKKACiiigAooooAyIf
+9Sn+6KkpkH+pj/3R/KpBXlvdnYtiOSMu0RGPkfcfyI/rVf7E4t44wUBW3aM+hJ28/oauinVSbQmi
+pJbys8iqI/LlYMWJO4Yx2xz09aclqR5WdvySs5/HOPx5FWhS1abJKX2SRY0ERRWRHHpySD6e1JFa
+TIQ+FyJvM2mRm42bfvEZq/ilxVJsRRFtNH9xYn3JsbcSMck+nPXpx0pRZFUdQVJLRkMeuF29fyNX
+sUYp6iGYpMU/FJUNFXGYpMU+kNS0O4zFJinUhqGihYpDE2R+NXkdZFyprPNTWf8ArT/u1tRqNPl6
+GdSKauXKKKK7jnCioEmZr2WEgbURWB785/wqegAooqptNzdzK0kipFhQEYryRnJx9aALdFFFABRR
+RQAUUUUAFFFFABRRRQBnW9rut4286QZQHA2+n0qT7J/03l/8d/wp9r/x6w/7i/yqao9nDsVzy7lf
+7J/03l/8d/wo+yf9N5f/AB3/AAqxS0ezj2Dmfcr/AGQ/8/Ev/jv+FH2U/wDPxL+S/wCFWKWjkj2F
+zMr/AGU/8/Ev5L/hR9mb/n4l/Jf8KsUU+SPYOZlf7O3/AD8S/kv+FH2dv+fiX8l/wqeijkiHMyv9
+mb/n4l/Jf8KPsx/5+JfyX/CrFJRyR7BzMr/Zj/z8S/kv+FJ9mP8Az3l/Jf8ACrFFHs49g5mVvsx/
+57y/kv8AhR9lP/PeX/x3/CrFJS9nDsHNLuV/sv8A03l/8d/wqS1iMdw37x2G3vj19hUlJF/x8t/u
+j+dCpxWqQczfUsUUUVYipF/yFLj/AK5p/WmQJLcST+ZK4jWUhQrEE/j6e1Pi/wCQpcf9c0/rTrL/
+AJb/APXZqAGwho7p7ZpHeNk3qWPzDnBGfyqO2tk+13Pzy/K64/etz8o6881Mf+Qov/XE/wDoQotv
++Py8/wB9f/QRQAyMPeFpGkdIgxVFRtucHGSRzSkPaTxjzHeGRtmHOSp7YNNgmWz3QXB2KGJRz90g
+nPX1pWkW8niEOWjjbez4446AetACFZJtQmj8x1iVVJ2tg554HpRcLIs1rDDKyg7gWJycY9+pqSH/
+AI/7n/dT+tE//H9a/wDA/wCVAENykloqyQSSMWYIVkYsDngH25p1xC8Fu86zymSNS53Nw2OcY6VJ
+f/6uL/rtH/6EKdff8eFx/wBcm/kaAHuGmhGyRo92DkAZxVOZktZImiuWZi4Vo3k3bgTjoe9LcECK
+187P2fH7z0zjjPtUdy9uY0W0RCvmpuZFwB8w7+tAF17VHcsXmBP92VgPyBoqaigCra/8esP+4v8A
+Kpqhtf8Aj1h/3F/lU1AEckvlyRqRxISufQ4z/Q0kc++VlAUKCQCW5OMZwPqSPwouY2lgZUIDjDIT
+03A5H4VXlsWeFYw4GInRj6s2OfzBoAtRXEEwzFNG45GVYHpT1dHAKOrAjcMHOR61QFjIUJ2iOQnB
+PnvJlcEHkjjgn9Ks2tuYGkJKkE4THZeSB+p/SgCxRRRQAUlLSUAFJS0lACUUtJQAlJS0lMQUkX/H
+y3+6P50tJF/x8t/uj+dIZYooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAKtr/AMesP+4v
+8qmqG1/49Yf9xf5VNQAUtFFAC0UUUAFFFFABSUtJQAUlLSUAFJS0lACUlLRTASki/wCPlv8AdH86
+Wki/4+W/3R/OkBYooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAKtr/wAesP8AuL/Kpqht
+f+PWH/cX+VTUALRUNzM8QjEaK7SPtAZto6E9cH0pq3aIrfaikDIQDucbeehB49/yNAFmiq/22389
+ojKgZUDnLDGP/wBQzUsUscyb4pFkX+8pyKAH0UUUAFFFFACUlLSUAFJS0lACUUUUxCUkX/Hy3+6P
+50tJF/x8t/uj+dIZYooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAK1r/x6w/7i/yqWorX
+/j1h/wBxf5VLQBDdRyv5TQhGaN92HYqDwR1wfWoJLe5f95lN7kb0WRkG0A4AYDPU57VeooAoR2lz
+DEFjaPd5Ij3biMEE9OD1z+HvU1jbvAJTJgeY+4ASM+OAOp5PSrVFAC0lLRQAlFFFACUlLRQAlJS0
+lACUUUUxCUkX/Hy3+6P50tJF/wAfLf7o/nSGWKKKKAK/2td5BikCB9hk4xn88/pViqcNsXeQyNJt
+84sIyAAeeD0z+tRfZ8QSMYSSZ2LgD5mTcePce3egDRpiyq0zxAHcgBPpzn/CqLR/LKYInW3JTdGE
+K55+bA+mPrTTEP8ASTBA6JiMqNhXOGJOB/T/ABoA06a8ioUDHBc7V9zjP9KoyeZK9y8ccgUrGOVK
+lgCdwGfaklhtm8p47XCLL8w8kjjae2M9cdqANGioLtSFSVVLNE27CjJI6EfkapywSAQmRQysGZw0
+RlAc89AfwBoA06RiVGQpb2GKoxW482MyKZAkI2sUI5zxweh/WokiIt5EjhJHyfP5RRmw3cHqe+aA
+NSis2SLJlBhc3JkzHJsJwM8fN2GO2fX1pZLfK3EnlEyiYFGxzj5en60AaNFRwBR5mxGT5znd3PqP
+aigCK1/49Yf9xf5VLUVr/wAesP8AuL/KpaAFooooAWiiigBaKKKAEooooASiiigBKSlpKAEooopg
+JSRf8fLf7o/nS0kX/Hy3+6P50gLFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBWtf+PW
+H/cX+VS1Fa/8esP+4v8AKpaAIrmZ4hGI0V2kfaAzbR0J64PpTUu1UMLnZA6nBBcYPGcg8eh/I0t1
+HK/lNCEZo33YdioPBHXB9ai+yyvPFPL5e8SbmUdAArAAHuctntQBZjmRg2XjyuSdr5wMkZP5H8jR
+9og8wx+dHvA3FdwyB64qr9hcqBuXDPJ5g9UZy2Pr2/E0z+z38yXKhgWdkczvwWB/g6dyKALgurcs
+qieIsxwo3jJPtU1UzbyrPE0ARAqqrtuPKj+HbjH45B5/A3KAEooooASiiigBKSlpKAEooopgJSRf
+8fLf7o/nS0kX/Hy3+6P50gLFFFFABRVVXuftZiMkW0KGOIzkjJ4+97UtteJKEVziRiQMKcHHbPTN
+AFmioBdRhFLOWLZPyI3Y+nOKkllSFN8jbVyBmgB9FQ/a4QhcsVCkKQykEE9OCM0jXcK/eLdNxGxs
+qPU8cfjQBPRUM11FED82Tt3cKSAPU46D60QXCyRqWID+WsjADoD/APqNAE1FQtdQqqksTuXcNqk8
+epwOKILlZpJUCsDG23JU88D296AJqKha4SNn3vnawUKqEnJGce/4U55f9HaVOykjII/SgCSiqMt8
+sZUPPHGSobaYmbr7g0UAS2v/AB6w/wC4v8qlrHtLvUJIB5EETony5PHQfWp/O1b/AJ9Yvz/+yqed
+G7w8k7Nr7zSpazPO1b/n1i/P/wCyo87Vv+fWL8//ALKjm8hexf8AMvvNOlrM87V/+fWH8/8A7Kjz
+tX/59Yfz/wDsqObyD2L/AJl95p0Vmefq/wDz6w/n/wDZUefq/wDz6w/n/wDZUc3kP2L/AJl95p0l
+Zvnav/z6w/n/APZUedq3/PrD+f8A9lRzeQvYv+ZfeaNFZvnat/z6xfn/APZUedq3/PrF+f8A9lRz
+eQexf8y+80aSs7ztW/59ovz/APsqPO1X/n2i/P8A+yo5vIPYP+ZfeaNJWd52q/8APtF+f/2VHnap
+/wA+0X5//Xo5vIPYP+ZfeaFJF/x8t/uj+dUPO1T/AJ9ovz/+vTEvLyK9iSeKNfNYL68Z+tHMhqhJ
+7NfebVFFFUYEQiYXbS5G0oF985J/rUSWzrFAhK5jk3H6c/41aooAom0nEaKmwOoOJA5BXnPTHzDp
+walv93lR7cbvNTGenWrNFAFRraWRjI+xXLxnaCSAFbPXHXk054plllaIRsJQM7yRtOMenP6VZooA
+pi2mhDLCUZWjVMuSCuBjPv8ATigW08YXy/LJMKxNuJGCM8jjnr7VcooAqRQTwbTH5bExqrbmIwR3
+HHP6VLDG8c0xO0pI28HPPQDGPwqaigCpLbuXlYKj73DAFypGFx1A4NSiKQ2ZidwzlCMmpqKAMq70
+yeeRWRowAgXknt+FFatFAGNooDW5DAEbmOD9FrS8qP8A55p/3yKzdD/1J/3m/wDZa1a50kdVd/vG
+QTG2t03zCNF6ZKioPt2nf34/++P/AK1Q64AVgB5+c8VUdoWjlV7XyZGLBAWypCnBK++R0p8q7CjF
+WV3ubaJC6BkSNlIyCAOaXyo/+eaf98iq+lf8g6H6H+ZqK3Zw08oindlZ8Ey/IQG6AZ4P4U+VGbun
+Yu+VH/zzT/vkUeVH/wA80/75FUZr1ngMsC9YpHiYuRkDHJGPfv6e9Xoi5iUyABiOQDkf0o5UK4eV
+H/zzT/vkUeVH/wA80/75FPopWQXYzyo/+eaf98ijyo/+eaf98in0UWQXYzyo/wDnmn/fIo8qP/nm
+n/fIp9FFkF2M8qP/AJ5p/wB8ijyo/wDnmn/fIp9FFkF2M8qP/nmn/fIrLu+NRsx6S4/8erXrIu/+
+Qjaf9df/AGei1jaj8f3/AJM26KKK3OUh+1w+Zs3MDu25KEDPpnGKmqjDC8plBkAiE5JULySDnrn1
+9qZlhBJIZZADOyu24/Km49PT60AaNNEimRowfmUAkexzj+Rqg0m1ZfJmZrfKZkDltuT82G+mPpmm
+b1VrpreVmVViO7eW43HPPp1/WgDUpCyqQCQMnAyepqhJcl3uWgkLIFj5U5ABJ3Efh/KmzC2PkOk7
+NGs2GbzmIX5T3z9Pz96ANKiq95kiJQzKGkAO04JHNVJXkW5ePzURlKiLfOV447Y+bJz1oA06RWDZ
+xng45GKzJphtlLTOs4lwEDkfLkY+X0x3p8shxJunCATkYeQoCNo43Dp60AaG4btuRuxnGecUtZ0e
+w3UchMiFoBtDyHJP58/5NIHVLK2MkjlpVDFnnKDOPXt16UAaVFU7SMXFpE8ryltuMiVh0PsRn60U
+AUtD/wBSf95v/Za1awdPvoLa3KSrIW3lgU+g9/arX9rWn924/wC+v/r1zo7q1KcptpFu9s0vI1V2
+KlTkEVFa2UVxpP2abLKJJAG6EEO3I96h/ta0/u3H/fX/ANeqB1KVB+7Z1SKRpEQf8tMuSQx+hxjn
+nmri0tzKVGrbZmtYF7c/YZlw8ako4HyyLnr7HnkVKbKAl8h8PncvmNtOevGcVkWNzp9o0oSJzhyE
+kRSpKHBwcnPB4/AVc/taz/uXH/fX/wBlQ3roJUajV7Mu/ZYcsSmd27PJx82M/nipI0EaBFzgdMsS
+fzNZ39rWf9y5/wC+v/sqP7Ws/wC5c/8AfX/2VTcfsKn8rNOisz+1rP8AuXH/AH1/9lSf2tZ/3Lj/
+AL6/+vRcPYVP5WalFZf9rWn924/76/8Ar0f2taf3bj/vr/69Fw9hU/lZqUVl/wBrWn924/76/wDr
+0n9rWv8AduP++v8A69Fw9hU/lZq0Vlf2ta/3bj/vr/69H9q2v924/wC+v/r0XD2FT+VmrWRd/wDI
+RtP+uv8A7PTv7Vtv7tx/31/9eq73UdzqFp5SsAsg+99RQaUqU4yu13/JnQ0UUVucQUUUUAFFFFAB
+RRRQAUUUUAQvb+Y4LyyMgIby+NvHTtn9amoooAKKKKACiiigCta/8esP+4v8qlqK1/49Yf8AcX+V
+S0ALS0lLQAUtFFAC0UUUAJSUtJQAUlLSUAJSUtJQAUlLSUwEpIv+Plv90fzpaSL/AI+W/wB0fzpA
+WKKKKAKSxrDcZniVmeQ7Jup5zgHuPT0+lEF5LLIh2HY5Ix5TDaOx3dD/APXqwttEsm/DEg7gC5IB
+9gTgUJbxxvvTcOScBzt59s4oArQzySLaSSiI+acjCn5flJ4Oaa107+ZGxVleF2BWNlHGO5+8Oeoq
+4LeJVjUJxF9wZ6cY/kaYtnAnRWPylOXY4B7cmgBDKYbFXAydqgA+pwB/Okd7hCkZaJnkbCtsIAAG
+Txnn86naJGi8plBTGMH0qP7LCU2kMed2S7Eg+xzkUARfaZt3kHZ53mbN+Dtxt3Zxn04xmoRPJA9x
+na0jTKuVUkD5Bzgc9B0q39lhMXl7TjduzuO7PrnrmgWkIRlCHDMGJ3HOfXPXPFADbeWaXGVACsQx
+KMm4Y4IB/wA8VYqNbeNSh+YlCSpZyxGeO5qSgAooooAKKKKAK1r/AMesP+4v8qlqK1/49Yf9xf5V
+LQAtLSUtAC0UUUALRRRQAlJS0lABSUtJQAlJS0lABSUtJTASki/4+W/3R/OlpIv+Plv90fzpAWKK
+KKACimrIrhipztJB47ilUhlDDOCM8jFAC0UUUAFFFFABRRRQAUU0Op27TuDDIIGRj606gAopGZVG
+WIGTjk96WgAooooArWv/AB6w/wC4v8qlqK1/49Yf9xf5VLQAtLSUtAC0UUUALRRRQAlJS0lABSUt
+JQAlJS0lABSUtJTEJSRf8fLf7o/nS0kX/Hy3+6P50hliiiigCnbzxKZ4zKgkMrYXcM/lUEcqtFF9
+rneNTAhVt5Xccc89z04rTooAzTJKbxgZURxLhQ0xXK+mzGDkd6Vd4Am82Qt9pKYLnG3cRjHStGig
+DMEzBZ/KkMsmwsHWQsBz3X+E+3sansGLO+2WN0wOFnMpB/Ecf/Wq5RQBm3E+LwBHwwlRSplIOCR/
+B0xz1p8ZjlZllmcXBLAxiQjA5xwO2Mc1fooAzbcBre0ijlYboyGIcnDbR78Y9Kd57PDJNIWUIoiI
+DbRvz8xz2HTntzWhRQBkbhJBJvkJjjnjIKzMwAyM/Nxx/KpJpJPtDqJo0xt8kvOVyMDnGPm5zWnR
+QBQ3wGWX7VcGNw5AUzFPl7YAIz9aKv0UAVrX/j1h/wBxf5VLUVr/AMesP+4v8qloAWlpKWgBaKKK
+AFooooASkpaSgApKWkoASkpaSgApKWkpiEpIv+Plv90fzpaSL/j5b/dH86QyxRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAVrX/j1h/3F/lUtRWv/HrD/uL/ACqWgBaWkpaAFooooAWiiigB
+KSlpKACkpaSgBKSlpKACkpaSmISki/4+W/3R/OlpIv8Aj5b/AHR/OkMsUUUUAV7diUmLEnEjAc9q
+ZFcvJFGIIgzeUrkPIRjI4GcHJqRbbY7FZpArMWKfLjn8M/rSCzVVQRyyRlUEZKkZYDpnIoAjbUEW
+cp+72h9hzIA2fUL6Uq3blgTCBH5pi3b+c5IzjHT8alEG2UuksigtuKDGCfxGaPsybNuWx5nmfjnN
+AEQvvklkdVCx5yA/zDnjIxxn601NQVgwxGzjbtEcm4Ek4HOOOal+xoSxkkkkypQbiOB+A9hSm23R
+Mkk0kgOCCcAqRyCMAUAMheVr6RZQFxGpChtw6tz2/wAimZRr+VZDOcFdoQvtHHfHH51PFbiOVpTI
+7uwAJbHbPoPenrGEkdwTl8Z/CgCsmoI84QeXtZyg/eDdn12+nHrQL1mmaELFv2sQFlzgjs3HH61M
+lv5bkrLIEJJ8vjHP4Z/WmxWaxMh8yRhGpVVbGAPwHtQAy0uZHS2WVRuliL7gfTHt3zSi7d/KEcQL
+Sb+r4A2nHpThZhUjCzSKYhhWG3IHp09hTorVIvL2lj5e7GTnqcnNAFf+0VLNsa2CgkDzJ9p49sGi
+p/sxUny7iWNSSdo2kDP1BooAba/8esP+4v8AKpaitf8Aj1h/3F/lUtAC0tJS0ALRSUtAC0UUUAJS
+UtJQAUlLSUAJSUtJQAUlLSUxCUkX/Hy3+6P50tJF/wAfLf7o/nSGWKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigCta/8esP+4v8AKpaitf8Aj1h/3F/lUtAC0tJS0AFLSUtAC0UlFABSUtJQ
+AUlLSUAJSUtJQAUlLSUwEpIv+Plv90fzpaSL/j5b/dH86QFiiiigAooooAKKKKACiiigAooooAKK
+KKACiiigAooooArWv/HrD/uL/Kpaitf+PWH/AHF/lUtAC0tJS0AFLSUtABRRRQAUlLSUAFJS0lAC
+UlLSUAFJS0lMBKSL/j5b/dH86Wki/wCPlv8AdH86QFiiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooArWv/HrD/uL/ACqWorX/AI9Yf9xf5VLQAtLSUtABS0lLQAUUUUAFJS0lABSUUUAJSUtJ
+QAUlLSUwEpIv+Plv90fzpaSL/j5b/dH86QFiiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
+oArWv/HrD/uL/Kpaitf+PWH/AHF/lUtAC0tJRQAtLSUtABRRRQAUlLSUAJRRRQAlJS0lABSUtJTE
+JSRf8fLf7o/nS0kX/Hy3+6P50hliiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooArWv/Hr
+D/uL/Kpaitf+PWH/AHF/lUtAC0UUUALS0lFAC0UUUAJRRRQAlFFFACUlLSUAFJS0lMBKSL/j5b/d
+H86Wki/4+W/3R/OkBYooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP//Z
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="b14f9dcf-dcb2-4956-9994-48d82b8e968f"
+	name="QQRepository"
+	relativepath="QQRepository.rxrep"
+	rxversion="7.2">
+		<codegen
+		classname="QQRepository"
+		namespace="QQ">
+		</codegen>
+		<rootfolder
+		id="22b4cdd8-cb0b-4a51-9f08-f14dc508a2da"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		MainExit.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

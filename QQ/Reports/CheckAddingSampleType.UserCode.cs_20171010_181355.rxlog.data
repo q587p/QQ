@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="e3cde5fe4f9e33c"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 18:13:59"
+		timestampiso="2017-10-10T15:13:59"
+		endtime="10.10.2017 18:14:09"
+		timeoutfactor="1"
+		module="CheckAddingSampleType">
+		<detail>
+			CheckAddingSampleType
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.661"
+			timeRelativeToTestModuleStartTime="00:08.676"
+			timeWallClock="18:14:08"
+			time="00:08.661"
+			level="Info"
+			category="Deleted">
+			<message>
+				Delete added element
+			</message>
+			<metainfo
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="72"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

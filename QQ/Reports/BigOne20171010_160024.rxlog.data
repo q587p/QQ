@@ -1,0 +1,799 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="c399c393ca89b36"
+		totalerrorcount="0"
+		totalwarningcount="2"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 16:00:30"
+		timestampiso="2017-10-10T13:00:30"
+		endtime="10.10.2017 16:01:55"
+		timeoutfactor="1"
+		module="BigOne">
+		<detail>
+			BigOne
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.852"
+			timeRelativeToTestModuleStartTime="00:00.859"
+			timeWallClock="16:00:31"
+			time="00:00.852"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Program Files (x86)\MyAssays\MyAssays Desktop\MyAssays.Desktop.Explorer.exe' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.929"
+			timeRelativeToTestModuleStartTime="00:00.936"
+			timeWallClock="16:00:31"
+			time="00:00.929"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.SomeTabPage' at 31;34.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/?/?/tabpagelist[@automationid='TabControl']/tabpage[@index='2']"
+				fullname="QQRepository.MyAssaysExplorer.SomeTabPage"
+				id="b93738a104c4421eb16a6242ea57f951"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.607"
+			timeRelativeToTestModuleStartTime="00:09.614"
+			timeWallClock="16:00:40"
+			time="00:09.607"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.New' at 18;5.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']//button[@automationid='NewFileRibbonButton']/list[@automationid='PART_Label']/text[@caption='New ']"
+				fullname="QQRepository.MyAssaysExplorer.New"
+				id="45b5d4583f684e3d9ac7b77ea84d41de"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.191"
+			timeRelativeToTestModuleStartTime="00:12.198"
+			timeWallClock="16:00:43"
+			time="00:12.191"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.IWillEnterPasteInMyData' at 98;1.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]//radiobutton[@text~'^I\ will\ enter/paste\ in\ my\ ']/text[@caption~'^I\ will\ enter/paste\ in\ my\ ']"
+				fullname="QQRepository.NewProtocolWizard.IWillEnterPasteInMyData"
+				id="cc5d29944b3341f2acf6f58819e4ee96"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.395"
+			timeRelativeToTestModuleStartTime="00:15.402"
+			timeWallClock="16:00:46"
+			time="00:15.395"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 47;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.225"
+			timeRelativeToTestModuleStartTime="00:16.232"
+			timeWallClock="16:00:47"
+			time="00:16.225"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.GoogleChrome.Endpoint' at 63;15.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/container[1]/list[1]/listitem[@text='Endpoint']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.Endpoint"
+				id="3bd33098115642cf9a0e576de8358049"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.130"
+			timeRelativeToTestModuleStartTime="00:17.137"
+			timeWallClock="16:00:48"
+			time="00:17.130"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.GoogleChrome.Other' at 29;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/container[1]/list[2]/listitem[@text='Other']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.Other"
+				id="0c88170ea06b43a8be997a99375ff218"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.019"
+			timeRelativeToTestModuleStartTime="00:18.026"
+			timeWallClock="16:00:49"
+			time="00:18.019"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 48;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.872"
+			timeRelativeToTestModuleStartTime="00:18.879"
+			timeWallClock="16:00:49"
+			time="00:18.872"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left DoubleClick item 'NewProtocolWizard.GoogleChrome.Custom' at 66;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/?/?/list/?/?/listitem[@text='Custom']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.Custom"
+				id="e99a167bb2e040bdb0e8a733d39596c6"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.073"
+			timeRelativeToTestModuleStartTime="00:20.080"
+			timeWallClock="16:00:51"
+			time="00:20.073"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.GoogleChrome.Text1' at 20;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/?/?/list//text[@caption='1']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.Text1"
+				id="3a63d555a1b546aaa95e23d32a62c8bb"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.105"
+			timeRelativeToTestModuleStartTime="00:21.112"
+			timeWallClock="16:00:52"
+			time="00:21.105"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '99'.
+			</message>
+			<metainfo
+				itemindex="10"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="122"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.439"
+			timeRelativeToTestModuleStartTime="00:21.446"
+			timeWallClock="16:00:52"
+			time="00:21.439"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.GoogleChrome.Text1' at 22;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/?/?/list//text[@caption='1']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.Text1"
+				id="3a63d555a1b546aaa95e23d32a62c8bb"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.476"
+			timeRelativeToTestModuleStartTime="00:22.483"
+			timeWallClock="16:00:53"
+			time="00:22.476"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '99'.
+			</message>
+			<metainfo
+				itemindex="12"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="130"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.790"
+			timeRelativeToTestModuleStartTime="00:22.797"
+			timeWallClock="16:00:53"
+			time="00:22.790"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 45;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="134"
+				itemindex="13"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.611"
+			timeRelativeToTestModuleStartTime="00:23.618"
+			timeWallClock="16:00:54"
+			time="00:23.611"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'True' on item 'NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox8'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/?/?/list[@automationid='SampleTypesSimplifiedView']/checkbox[1]"
+				fullname="QQRepository.NewProtocolWizard.SampleTypesSimplifiedView.SomeCheckBox8"
+				id="6115568519ce49b9b0c0eac254dcf9ab"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="138"
+				itemindex="14"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.912"
+			timeRelativeToTestModuleStartTime="00:23.919"
+			timeWallClock="16:00:54"
+			time="00:23.912"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 25;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="142"
+				itemindex="15"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.739"
+			timeRelativeToTestModuleStartTime="00:24.746"
+			timeWallClock="16:00:55"
+			time="00:24.739"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.SomeListItem2' at 251;45.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//container[@automationid='Self']/list[@automationid='MainListBox']/listitem[@index='0']"
+				fullname="QQRepository.NewProtocolWizard.SomeListItem2"
+				id="d3319e40a30c4ad8b0e7b73981a27e38"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="146"
+				itemindex="16"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.298"
+			timeRelativeToTestModuleStartTime="00:27.305"
+			timeWallClock="16:00:58"
+			time="00:27.298"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 19;2.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="150"
+				itemindex="17"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:28.134"
+			timeRelativeToTestModuleStartTime="00:28.141"
+			timeWallClock="16:00:59"
+			time="00:28.134"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 30s.
+			</message>
+			<metainfo
+				itemindex="18"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="154"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:58.141"
+			timeRelativeToTestModuleStartTime="00:58.148"
+			timeWallClock="16:01:29"
+			time="00:58.141"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 44;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="157"
+				itemindex="19"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:59.073"
+			timeRelativeToTestModuleStartTime="00:59.080"
+			timeWallClock="16:01:30"
+			time="00:59.073"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.GoogleChrome.MyEndpoint99x99Protocol2' at 190;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/container[1]/container[@caption='']/text[@caption~'^My\ Endpoint\ 99x99\ Protoco']"
+				fullname="QQRepository.NewProtocolWizard.GoogleChrome.MyEndpoint99x99Protocol2"
+				id="d50192c691f640c98e0f5f2d0d038395"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="161"
+				itemindex="20"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:59.933"
+			timeRelativeToTestModuleStartTime="00:59.940"
+			timeWallClock="16:01:30"
+			time="00:59.933"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LControlKey down}{Akey}{LControlKey up}{LShiftKey down}B{LShiftKey up}ig{LShiftKey down}O{LShiftKey up}ne'.
+			</message>
+			<metainfo
+				itemindex="21"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="165"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:00.760"
+			timeRelativeToTestModuleStartTime="01:00.767"
+			timeWallClock="16:01:31"
+			time="01:00.760"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 39;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="169"
+				itemindex="22"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:01.613"
+			timeRelativeToTestModuleStartTime="01:01.620"
+			timeWallClock="16:01:32"
+			time="01:01.613"
+			level="Info"
+			category="Wait">
+			<message>
+				Waiting 5s to exist. Associated repository item: 'NewProtocolWizard.LaunchProtocol'
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/?/?/checkbox[@text='Launch protocol']"
+				fullname="QQRepository.NewProtocolWizard.LaunchProtocol"
+				id="446608efd8c848178aa667d2339d5fbb"
+				timeout="5000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="173"
+				itemindex="23"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:02.697"
+			timeRelativeToTestModuleStartTime="01:02.704"
+			timeWallClock="16:01:33"
+			time="01:02.697"
+			level="Info"
+			category="Set Value">
+			<message>
+				Setting attribute Checked to 'False' on item 'NewProtocolWizard.LaunchProtocol'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/?/?/checkbox[@text='Launch protocol']"
+				fullname="QQRepository.NewProtocolWizard.LaunchProtocol"
+				id="446608efd8c848178aa667d2339d5fbb"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="176"
+				itemindex="24"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:02.873"
+			timeRelativeToTestModuleStartTime="01:02.880"
+			timeWallClock="16:01:33"
+			time="01:02.873"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Finish' at 54;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Finish']"
+				fullname="QQRepository.NewProtocolWizard.Finish"
+				id="80efef082884424296ab5439ae3e82ec"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="180"
+				itemindex="25"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:03.729"
+			timeRelativeToTestModuleStartTime="01:03.736"
+			timeWallClock="16:01:34"
+			time="01:03.729"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.BigOne' at 53;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/menubar[@automationid='Ribbon']/tabpagelist[@automationid='TabControl']/tabpage[@index='2']/?/?/container[@automationid='FileView']//listitem[@accessiblename='BigOne']"
+				fullname="QQRepository.MyAssaysExplorer.BigOne"
+				id="c4409ad9dcc544a68aa185ec9bfeeb20"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="184"
+				itemindex="26"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:07.839"
+			timeRelativeToTestModuleStartTime="01:07.846"
+			timeWallClock="16:01:38"
+			time="01:07.839"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.OpenFileRibbonButton' at 25;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/menubar[@automationid='Ribbon']//button[@automationid='OpenFileRibbonButton']"
+				fullname="QQRepository.MyAssaysExplorer.OpenFileRibbonButton"
+				id="a3890147133d45f78f03ce579d816eab"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="188"
+				itemindex="27"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:10.232"
+			timeRelativeToTestModuleStartTime="01:10.239"
+			timeWallClock="16:01:41"
+			time="01:10.232"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'InvalidConfiguration' at 276;0.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Invalid Configuration']"
+				fullname="QQRepository.InvalidConfiguration.Self"
+				id="22b40769510d4b5dbf71f54be56cb5ef"
+				timeout="30000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="192"
+				itemindex="28"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:18.020"
+			timeRelativeToTestModuleStartTime="01:18.027"
+			timeWallClock="16:01:49"
+			time="01:18.020"
+			level="Warn"
+			category="WPF">
+			<message>
+				Failed to instrument WPF process. UI element identification capabilities for this window are limited.<br/>Process: (pid 0)<br/>The following website provides more information on this technology limitation:<br/>https://www.ranorex.com/help/v7.2/technology-instrumentation/general-troubleshooting#GeneralTroubleshooting-Reason#2:.1<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="WPF Instrumentation"
+				showInProgressDialog="False"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="193"
+				loglvl="Warn"
+				itemindex="28">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:18.896"
+			timeRelativeToTestModuleStartTime="01:18.903"
+			timeWallClock="16:01:49"
+			time="01:18.896"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'InvalidConfiguration.ButtonOK' at 49;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Invalid Configuration']/button[@text='OK']"
+				fullname="QQRepository.InvalidConfiguration.ButtonOK"
+				id="3c769fceef674458896cdf6b1e16b160"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="196"
+				itemindex="29"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:19.570"
+			timeRelativeToTestModuleStartTime="01:19.577"
+			timeWallClock="16:01:50"
+			time="01:19.570"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Down item 'MyAssaysExplorer.BigOne' at 63;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/menubar[@automationid='Ribbon']/tabpagelist[@automationid='TabControl']/tabpage[@index='2']/?/?/container[@automationid='FileView']//listitem[@accessiblename='BigOne']"
+				fullname="QQRepository.MyAssaysExplorer.BigOne"
+				id="c4409ad9dcc544a68aa185ec9bfeeb20"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="200"
+				itemindex="30"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:20.745"
+			timeRelativeToTestModuleStartTime="01:20.752"
+			timeWallClock="16:01:51"
+			time="01:20.745"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Delete}' with focus on 'MyAssaysExplorer.BigOne'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/menubar[@automationid='Ribbon']/tabpagelist[@automationid='TabControl']/tabpage[@index='2']/?/?/container[@automationid='FileView']//listitem[@accessiblename='BigOne']"
+				fullname="QQRepository.MyAssaysExplorer.BigOne"
+				id="c4409ad9dcc544a68aa185ec9bfeeb20"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="205"
+				itemindex="31"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:21.629"
+			timeRelativeToTestModuleStartTime="01:21.636"
+			timeWallClock="16:01:52"
+			time="01:21.629"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.File' at 29;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/?/?/button[@automationid='ToggleButton']/button[@text='File']"
+				fullname="QQRepository.MyAssaysExplorer.File"
+				id="600d73c3cd6140e095392c7ecae25ee0"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="209"
+				itemindex="32"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:23.139"
+			timeRelativeToTestModuleStartTime="01:23.146"
+			timeWallClock="16:01:54"
+			time="01:23.139"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.ExitCommandButton' at 63;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/picture[@automationid='Part_SysIcon']//button[@automationid='ExitCommandButton']"
+				fullname="QQRepository.MyAssaysExplorer.ExitCommandButton"
+				id="f904e6d696e44659911fab07e6d5c3ba"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="213"
+				itemindex="33"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:23.567"
+			timeRelativeToTestModuleStartTime="01:23.574"
+			timeWallClock="16:01:54"
+			time="01:23.567"
+			level="Warn"
+			category="Click">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>(null)
+			</message>
+			<metainfo
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BigOne.cs"
+				codeline="214"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+	</activity>
+</report>

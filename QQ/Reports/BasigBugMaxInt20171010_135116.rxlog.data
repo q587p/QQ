@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="6c55f9ef854d396"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 13:51:22"
+		timestampiso="2017-10-10T10:51:22"
+		endtime="10.10.2017 13:52:20"
+		timeoutfactor="1"
+		module="BasigBugMaxInt">
+		<detail>
+			BasigBugMaxInt
+		</detail>
+		<errormessage>
+			Failed to find item 'QQRepository.MyAssaysDesktopExplorer1.Self'.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.828"
+			timeRelativeToTestModuleStartTime="00:00.828"
+			timeWallClock="13:51:23"
+			time="00:00.828"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Program Files (x86)\MyAssays\MyAssays Desktop\MyAssays.Desktop.Explorer.exe' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.921"
+			timeRelativeToTestModuleStartTime="00:00.921"
+			timeWallClock="13:51:23"
+			time="00:00.921"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.SomeTabPage' at 66;66.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/?/?/tabpagelist[@automationid='TabControl']/tabpage[@index='2']"
+				fullname="QQRepository.MyAssaysExplorer.SomeTabPage"
+				id="b93738a104c4421eb16a6242ea57f951"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.299"
+			timeRelativeToTestModuleStartTime="00:09.299"
+			timeWallClock="13:51:31"
+			time="00:09.299"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'MyAssaysExplorer.NewFileRibbonButton' at 27;24.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='MyAssays Explorer']/menubar[@automationid='Ribbon']//button[@automationid='NewFileRibbonButton']"
+				fullname="QQRepository.MyAssaysExplorer.NewFileRibbonButton"
+				id="ac18026f8a274dc7a3ad62bce200ae26"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.535"
+			timeRelativeToTestModuleStartTime="00:11.535"
+			timeWallClock="13:51:33"
+			time="00:11.535"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.IWillEnterPasteInMyData' at 14;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]//radiobutton[@text~'^I\ will\ enter/paste\ in\ my\ ']/text[@caption~'^I\ will\ enter/paste\ in\ my\ ']"
+				fullname="QQRepository.NewProtocolWizard.IWillEnterPasteInMyData"
+				id="cc5d29944b3341f2acf6f58819e4ee96"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.773"
+			timeRelativeToTestModuleStartTime="00:14.773"
+			timeWallClock="13:51:37"
+			time="00:14.773"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 26;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.648"
+			timeRelativeToTestModuleStartTime="00:15.648"
+			timeWallClock="13:51:38"
+			time="00:15.648"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 26;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.520"
+			timeRelativeToTestModuleStartTime="00:16.520"
+			timeWallClock="13:51:38"
+			time="00:16.520"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.ListItem1x11' at 62;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/container[1]/?/?/list/?/?/listitem[@text='1x1 (1)']"
+				fullname="QQRepository.NewProtocolWizard.ListItem1x11"
+				id="47d896366f604cd7bd0cb0be1876b0f5"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:17.543"
+			timeRelativeToTestModuleStartTime="00:17.543"
+			timeWallClock="13:51:39"
+			time="00:17.543"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 44;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.387"
+			timeRelativeToTestModuleStartTime="00:18.387"
+			timeWallClock="13:51:40"
+			time="00:18.387"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 22;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.262"
+			timeRelativeToTestModuleStartTime="00:19.262"
+			timeWallClock="13:51:41"
+			time="00:19.262"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Scroll Vertical by -360 units.
+			</message>
+			<metainfo
+				itemindex="9"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="118"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.778"
+			timeRelativeToTestModuleStartTime="00:19.778"
+			timeWallClock="13:51:42"
+			time="00:19.778"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Scroll Vertical by 480 units.
+			</message>
+			<metainfo
+				itemindex="10"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="122"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.278"
+			timeRelativeToTestModuleStartTime="00:20.278"
+			timeWallClock="13:51:42"
+			time="00:20.278"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.SomeListItem1' at 101;116.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//container[@automationid='Self']/list[@automationid='MainListBox']/?/?/listitem[@index='1']"
+				fullname="QQRepository.NewProtocolWizard.SomeListItem1"
+				id="b7e4d2dd718e4e48867c2458d60562a5"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="126"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.348"
+			timeRelativeToTestModuleStartTime="00:21.348"
+			timeWallClock="13:51:43"
+			time="00:21.348"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'NewProtocolWizard.Next' at 30;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']/?/?/button[@text='Back']/?/?/button[@text='Next']"
+				fullname="QQRepository.NewProtocolWizard.Next"
+				id="774966f7bcb1447ca7ad2646db0bdc5f"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="130"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.199"
+			timeRelativeToTestModuleStartTime="00:22.199"
+			timeWallClock="13:51:44"
+			time="00:22.199"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left DoubleClick item 'NewProtocolWizard.TabPagePad.SomeText' at 134;20.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//tabpage[@title='Pad']/text[@automationid='PadViewTextBox']/text[@caption='']"
+				fullname="QQRepository.NewProtocolWizard.TabPagePad.SomeText"
+				id="6f537a5464174bfcb18f35e78e178f57"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="134"
+				itemindex="13"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.879"
+			timeRelativeToTestModuleStartTime="00:23.879"
+			timeWallClock="13:51:46"
+			time="00:23.879"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key 'Ctrl+A' Press.
+			</message>
+			<metainfo
+				itemindex="14"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="138"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.035"
+			timeRelativeToTestModuleStartTime="00:24.035"
+			timeWallClock="13:51:46"
+			time="00:24.035"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Back}'.
+			</message>
+			<metainfo
+				itemindex="15"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="142"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.269"
+			timeRelativeToTestModuleStartTime="00:24.269"
+			timeWallClock="13:51:46"
+			time="00:24.269"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '9999999999999999999999999999'.
+			</message>
+			<metainfo
+				itemindex="16"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="146"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.257"
+			timeRelativeToTestModuleStartTime="00:27.257"
+			timeWallClock="13:51:49"
+			time="00:27.257"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '9'.
+			</message>
+			<metainfo
+				itemindex="17"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="150"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.467"
+			timeRelativeToTestModuleStartTime="00:27.467"
+			timeWallClock="13:51:49"
+			time="00:27.467"
+			level="Info"
+			category="Keyboard"
+			errimg=".\BasigBug_62ffce45_e9c9ba8b_trace.jpg"
+			errthumb=".\BasigBug_62ffce45_e9c9ba8b_trace_thumb.jpg">
+			<message>
+				Key 'Alt+Tab' Press.
+			</message>
+			<metainfo
+				itemindex="18"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="154"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.580"
+			timeRelativeToTestModuleStartTime="00:27.580"
+			timeWallClock="13:51:49"
+			time="00:27.580"
+			level="Info"
+			category="Mouse"
+			errimg=".\BasigBug_62ffce45_a6c9c459_trace.jpg"
+			errthumb=".\BasigBug_62ffce45_a6c9c459_trace_thumb.jpg">
+			<message>
+				Mouse Left Down item 'MyAssaysDesktopExplorer1' at 297;162.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@name='MyAssays.Desktop.Explorer']"
+				fullname="QQRepository.MyAssaysDesktopExplorer1.Self"
+				id="99017867368f46cfb45a47c69ae989cf"
+				timeout="30000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="158"
+				itemindex="19"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:57.827"
+			timeRelativeToTestModuleStartTime="00:57.827"
+			timeWallClock="13:52:20"
+			time="00:57.827"
+			level="Error"
+			category="Module"
+			errimg=".\BasigBug_62ffce45_0295ae23_trace.jpg"
+			errthumb=".\BasigBug_62ffce45_0295ae23_trace_thumb.jpg">
+			<message>
+				Failed to find item 'QQRepository.MyAssaysDesktopExplorer1.Self'.<br/>No element found for path '/form[@name='MyAssays.Desktop.Explorer']' within 30s.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Repository.RepoItemInfo.Find[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)
+   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException, Duration waitTimeout)
+   at Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException)
+   at QQ.QQRepositoryFolders.MyAssaysDesktopExplorer1AppFolder.get_Self() in c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\QQRepository.cs:line 994
+   at QQ.BasigBugMaxInt.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs:line 159
+   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\BasigBugMaxInt.cs"
+				codeline="159"
+				type="repoitem"
+				path="/form[@name='MyAssays.Desktop.Explorer']"
+				fullname="QQRepository.MyAssaysDesktopExplorer1.Self"
+				id="99017867368f46cfb45a47c69ae989cf"
+				timeout="30000"
+				loglvl="Error"
+				itemindex="19">
+			</metainfo>
+		</item>
+	</activity>
+</report>

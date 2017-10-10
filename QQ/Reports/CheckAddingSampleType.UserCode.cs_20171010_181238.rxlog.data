@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="de3876de2da0d98"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 18:12:45"
+		timestampiso="2017-10-10T15:12:45"
+		endtime="10.10.2017 18:12:55"
+		timeoutfactor="1"
+		module="CheckAddingSampleType">
+		<detail>
+			CheckAddingSampleType
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.725"
+			timeRelativeToTestModuleStartTime="00:06.725"
+			timeWallClock="18:12:52"
+			time="00:06.725"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 500ms.
+			</message>
+			<metainfo
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="64"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.136"
+			timeRelativeToTestModuleStartTime="00:08.136"
+			timeWallClock="18:12:54"
+			time="00:08.136"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 500ms.
+			</message>
+			<metainfo
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="69"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="5c55ec675d37e48"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 17:57:03"
+		timestampiso="2017-10-10T14:57:03"
+		endtime="10.10.2017 17:57:27"
+		timeoutfactor="1"
+		module="CheckAddingSampleType">
+		<detail>
+			CheckAddingSampleType
+		</detail>
+		<errormessage>
+			Setting attribute 'Index' failed on element '{ListItem:Unknown}'.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.883"
+			timeRelativeToTestModuleStartTime="00:00.883"
+			timeWallClock="17:57:04"
+			time="00:00.883"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'textInfo' at 23;9.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/text[@caption='Manage Types...']"
+				fullname="QQRepository.NewProtocolWizard.ManageTypes"
+				id="2f4bee80127b48ca889e1ececc0b8e5b"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="39"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:02.780"
+			timeRelativeToTestModuleStartTime="00:02.780"
+			timeWallClock="17:57:06"
+			time="00:02.780"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'buttonInfo' at 76;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Sample Types Editor']/container[1]/?/?/button[@text='Add Sample Type']"
+				fullname="QQRepository.SampleTypesEditor.AddSampleType"
+				id="f6a1d6535f7648e08791c49346fa5f18"
+				timeout="60000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="43"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.970"
+			timeRelativeToTestModuleStartTime="00:03.970"
+			timeWallClock="17:57:07"
+			time="00:03.970"
+			level="Info"
+			category="Set Value"
+			errimg=".\CheckAdd_15d9460f_e63ee79f_trace.jpg"
+			errthumb=".\CheckAdd_15d9460f_e63ee79f_trace_thumb.jpg">
+			<message>
+				Setting attribute Text to 'Test' on item 'textInfo1'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title='Sample Types Editor']//list[@automationid='SampleTypesSimplifiedView']/container[10]/text[@caption='SampleType29']"
+				fullname="QQRepository.SampleTypesEditor.SomeContainer.SampleType29"
+				id="f7e4fca5b47543639730aaa5036ccfa2"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="47"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.021"
+			timeRelativeToTestModuleStartTime="00:14.021"
+			timeWallClock="17:57:17"
+			time="00:14.021"
+			level="Warn"
+			category="WPF"
+			errimg=".\CheckAdd_15d9460f_8bd4a7ff_trace.jpg"
+			errthumb=".\CheckAdd_15d9460f_8bd4a7ff_trace_thumb.jpg">
+			<message>
+				Failed to instrument WPF process. UI element identification capabilities for this window are limited.<br/>Process: (pid 0)<br/>The following website provides more information on this technology limitation:<br/>https://www.ranorex.com/help/v7.2/technology-instrumentation/general-troubleshooting#GeneralTroubleshooting-Reason#2:.1<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="WPF Instrumentation"
+				showInProgressDialog="False"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="55"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.490"
+			timeRelativeToTestModuleStartTime="00:23.490"
+			timeWallClock="17:57:26"
+			time="00:23.490"
+			level="Error"
+			category="Module"
+			errimg=".\CheckAdd_15d9460f_29e155ee_trace.jpg"
+			errthumb=".\CheckAdd_15d9460f_29e155ee_trace_thumb.jpg">
+			<message>
+				Setting attribute 'Index' failed on element '{ListItem:Unknown}'.<br/>Failed to set property 'index' on RemoteObject 'WpfHandle{e2d7a0b0-bf80-448f-8268-073a6d84c7ad}'. <br/>Instance does not have the requested Property. Ranorex_v7p2p0+gitpffdcf8e6_ItemIndex
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Element.SetAttributeValue(String name, Object value)
+   at QQ.CheckAddingSampleType.UserCodeMethod(RepoItemInfo textInfo, RepoItemInfo buttonInfo, RepoItemInfo textInfo1, RepoItemInfo buttonInfo1, RepoItemInfo listitemInfo, RepoItemInfo buttonInfo2, RepoItemInfo buttonInfo3) in c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs:line 55
+   at QQ.CheckAddingSampleType.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.cs:line 82
+   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CheckAddingSampleType.UserCode.cs"
+				codeline="55"
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

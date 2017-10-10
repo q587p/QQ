@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.1m"
+		durationms="67860"
+		type="root"
+		rid="22f7d5b4b043ad50"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		user="User"
+		rxversion="7.2.0.0"
+		host="DESKTOP-H3D7L8R"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="uk-UA"
+		dtnlanguage="uk-UA"
+		screenresolution="1920x1080"
+		timestamp="10.10.2017 12:50:34"
+		timestampiso="2017-10-10T09:50:34"
+		endtime="10.10.2017 12:51:42"
+		timeoutfactor="1"
+		module="CreateMultiplexWork">
+		<detail>
+			CreateMultiplexWork
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.843"
+			timeRelativeToTestModuleStartTime="00:00.859"
+			timeWallClock="12:50:35"
+			time="00:00.843"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Up item 'ProtocolMyEndpoint12x8Protocol2.Ribbon.HeatmapViewCheckBox' at 5;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title~'^Protocol:\ My\ Endpoint\ 12x']/menubar[@automationid='Ribbon']/?/?/container[@automationid='DashboardGrid']//checkbox[@automationid='HeatmapViewCheckBox']"
+				fullname="QQRepository.ProtocolMyEndpoint12x8Protocol2.Ribbon.HeatmapViewCheckBox"
+				id="faabee0d019e42809c393a32e73f18da"
+				timeout="90000"
+				codefile="c:\Users\User\Documents\Ranorex\RanorexStudio Projects\QQ\QQ\CreateMultiplexWork.cs"
+				codeline="82"
+				itemindex="22"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:07.860"
+			timeRelativeToTestModuleStartTime="01:07.875"
+			timeWallClock="12:51:42"
+			time="01:07.860"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

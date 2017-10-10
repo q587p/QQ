@@ -1,0 +1,40 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="QQ.rxtst" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="QQ.rxtst" />
+    <Element value="CheckWithoutAnySamples.rxrec" />
+    <Element value="CheckWithoutAnyLayer.rxrec" />
+    <Element value="QQ.rxtmg" />
+    <Element value="MyAssaysWork.rxrec" />
+    <Element value="Run.rxrec" />
+    <Element value="Open.rxrec" />
+    <Element value="BasicCreating.rxrec" />
+    <Element value="CheckOtherWithoutMeasurements.rxrec" />
+    <Element value="Endpoint_Other_1x1.rxrec" />
+    <Element value="QQRepository.rxrep" />
+    <Element value="BasigBugMaxInt.rxrec" />
+    <Element value="MainExit.rxrec" />
+    <Element value="BigOne.rxrec" />
+    <Element value="BasicCreating.cs" />
+    <Element value="CheckNullProtocolName.rxrec" />
+    <Element value="SimpleData.rxrec" />
+    <Element value="CheckWithoutData.rxrec" />
+    <Element value="ShallNotPass.rxrec" />
+    <Element value="AssemblyInfo.cs" />
+    <Element value="BasigBugMaxInt.cs" />
+    <Element value="BasigBugMaxInt.UserCode.cs" />
+    <Element value="app.config" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+    <Array name="recentusercodeselections">
+      <Element value="QQ.CheckAddingSampleType.UserCodeMethod(RepoItemInfo textInfo, RepoItemInfo buttonInfo, RepoItemInfo textInfo1, RepoItemInfo buttonInfo1, RepoItemInfo listitemInfo, RepoItemInfo buttonInfo2, RepoItemInfo buttonInfo3)" />
+      <Element value="QQ.CheckAddingSampleType.MergedUserCodeMethod1(RepoItemInfo textInfo, RepoItemInfo buttonInfo, RepoItemInfo textInfo1, RepoItemInfo buttonInfo1, RepoItemInfo listitemInfo, RepoItemInfo buttonInfo2, RepoItemInfo buttonInfo3)" />
+    </Array>
+  </Properties>
+</Properties>

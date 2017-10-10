@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="42ca5353-2b97-4a25-9662-2525040a268b"
+mode="Desktop"
+rxversion="7.2">
+	<name>
+		CheckAddingSampleType_byCode
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CheckAddingSampleType_byCode"
+	namespace="QQ">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<userrecorditem
+		classname="CheckAddingSampleType_byCode"
+		enabled="True"
+		isexternaltestmethod="False"
+		methodname="UserCodeMethod"
+		namespace="QQ"
+		optional="False"
+		varname="">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<arguments
+			id="712c4d60-26a7-4fe7-853c-cd5e857c1d2c">
+				<argument
+				argname="textInfo"
+				id="0395f718-3d42-4666-a0a6-e51190b4badc">
+					<argvaluetype>
+						Ranorex.Core.Repository.RepoItemInfo, Ranorex.Core, Culture=neutral
+					</argvaluetype>
+					<argvalue>
+					</argvalue>
+					<info
+					id="2f4bee80-127b-48ca-889e-1ececc0b8e5b"
+					sourcename="ItemRecorderEditor">
+						<path>
+							/form[@title='New Protocol Wizard']//button[@automationid='AdvancedViewButton']/text[@caption='Manage Types...']
+						</path>
+					</info>
+				</argument>
+				<argument
+				argname="buttonInfo"
+				id="9405235f-a8fd-4527-8ca3-06f12f44107d">
+					<argvaluetype>
+						Ranorex.Core.Repository.RepoItemInfo, Ranorex.Core, Culture=neutral
+					</argvaluetype>
+					<argvalue>
+					</argvalue>
+					<info
+					id="f6a1d653-5f76-48e0-8791-c49346fa5f18"
+					sourcename="ItemRecorderEditor">
+						<path>
+							/form[@title='Sample Types Editor']/container[1]/?/?/button[@text='Add Sample Type']
+						</path>
+					</info>
+				</argument>
+				<argument
+				argname="textInfo1"
+				id="5a2de30b-ca1c-4f19-a45a-8b4b0c601b07">
+					<argvaluetype>
+						Ranorex.Core.Repository.RepoItemInfo, Ranorex.Core, Culture=neutral
+					</argvaluetype>
+					<argvalue>
+					</argvalue>
+					<info
+					id="f7e4fca5-b475-4363-9730-aaa5036ccfa2"
+					sourcename="ItemRecorderEditor">
+						<path>
+							/form[@title='Sample Types Editor']//list[@automationid='SampleTypesSimplifiedView']/container[10]/text[@caption='SampleType29']
+						</path>
+					</info>
+				</argument>
+				<argument
+				argname="buttonInfo1"
+				id="168f1037-6ca1-47c9-8e86-95bf5a5502c0">
+					<argvaluetype>
+						Ranorex.Core.Repository.RepoItemInfo, Ranorex.Core, Culture=neutral
+					</argvaluetype>
+					<argvalue>
+					</argvalue>
+					<info
+					id="52f2c9f4-2c50-4415-9cb8-2269788e1c4d"
+					sourcename="ItemRecorderEditor">
+						<path>
+							/form[@title='Sample Types Editor']//list[@automationid='SampleTypesSimplifiedView']/container[10]/?/?/combobox/button[@automationid='toggleButton']
+						</path>
+					</info>
+				</argument>
+				<argument
+				argname="listitemInfo"
+				id="0f13bb32-3f62-4210-a308-938b468d5d4e">
+					<argvaluetype>
+						Ranorex.Core.Repository.RepoItemInfo, Ranorex.Core, Culture=neutral
+					</argvaluetype>
+					<argvalue>
+					</argvalue>
+					<info
+					id="3354663a-a0ed-4abb-a267-80a02758cafb"
+					sourcename="ItemRecorderEditor">
+						<path>
+							/contextmenu[@processname='MyAssays.Desktop.Explorer']/?/?/listitem[@text='Unknown']
+						</path>
+					</info>
+				</argument>
+				<argument
+				argname="buttonInfo2"
+				id="13a61b03-f63f-46d1-8bb8-0aec7734012a">
+					<argvaluetype>
+						Ranorex.Core.Repository.RepoItemInfo, Ranorex.Core, Culture=neutral
+					</argvaluetype>
+					<argvalue>
+					</argvalue>
+					<info
+					id="d4897c5c-a371-4d8d-8a07-1f280b8acd3e"
+					sourcename="ItemRecorderEditor">
+						<path>
+							/form[@title='Sample Types Editor']/container[1]/?/?/button[@text='OK']
+						</path>
+					</info>
+				</argument>
+				<argument
+				argname="buttonInfo3"
+				id="4da3aa04-4a59-4d9a-ab7f-38ae3f8150e3">
+					<argvaluetype>
+						Ranorex.Core.Repository.RepoItemInfo, Ranorex.Core, Culture=neutral
+					</argvaluetype>
+					<argvalue>
+					</argvalue>
+					<info
+					id="39f86998-b8f5-4cf4-a91f-76fa50fc89cc"
+					sourcename="ItemRecorderEditor">
+						<path>
+							/form[@title='Sample Types Editor']//list[@automationid='SampleTypesSimplifiedView']/container[10]/button[1]
+						</path>
+					</info>
+				</argument>
+			</arguments>
+		</userrecorditem>
+	</recorditems>
+	<repository
+	id="b14f9dcf-dcb2-4956-9994-48d82b8e968f"
+	name="QQRepository"
+	relativepath="QQRepository.rxrep"
+	rxversion="7.2">
+		<codegen
+		classname="QQRepository"
+		namespace="QQ">
+		</codegen>
+		<rootfolder
+		id="22b4cdd8-cb0b-4a51-9f08-f14dc508a2da"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CheckAddingSampleType_byCode.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
