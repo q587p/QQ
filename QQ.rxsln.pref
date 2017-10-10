@@ -1,0 +1,13 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{A07465AD-CEDF-411C-A9FE-A91646CE4651}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution QQ[QQ[BasigBugMaxInt.rxrec[]]]]&#xD;&#xA;Solution QQ\QQ\QQ.rxtst&#xD;&#xA;Solution QQ\QQ\CheckAddingSampleType_byCode.rxrec" />
+  <StartupProject value="{A07465AD-CEDF-411C-A9FE-A91646CE4651}" />
+</Properties>
